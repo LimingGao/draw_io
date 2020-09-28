@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-28T18:49:23.883Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="8qp3DKrczsJo3Iba8jd9" version="13.7.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-09-28T18:54:24.184Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="mFs20lJbosKrf2x4-f_U" version="13.7.2" type="github" pages="2">
   <diagram id="HFicxrAT9uB4OnwrCg4q" name="Simulation Framework">
     <mxGraphModel dx="738" dy="375" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -65,7 +65,7 @@
             <mxPoint x="-31.490000000000002" y="-12.01" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NBvhuKIKGgRFrUnSh6L8-35" value="Road Traffic" style="shape=cylinder3;boundedLbl=0.5;backgroundOutline=0.5;size=3.133331298828111;labelBackgroundColor=none;fontSize=8;align=center;verticalAlign=middle;fillColor=#D1FFEC;" vertex="1" parent="7AmJ8JEjP1ZRzc5Ko-3L-1">
+        <mxCell id="NBvhuKIKGgRFrUnSh6L8-35" value="Road Traffic" style="shape=cylinder3;boundedLbl=0.5;backgroundOutline=0.5;size=3.133331298828111;labelBackgroundColor=none;fontSize=8;align=center;verticalAlign=middle;fillColor=#D1FFEC;strokeWidth=1;" vertex="1" parent="7AmJ8JEjP1ZRzc5Ko-3L-1">
           <mxGeometry x="219" y="158.49" width="74.0156" height="29.9212" as="geometry" />
         </mxCell>
         <mxCell id="NBvhuKIKGgRFrUnSh6L8-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=0;entryX=0;entryY=0.895;entryDx=0;entryDy=0;endArrow=blockThin;endFill=1;fontSize=10;fontColor=#2155FF;entryPerimeter=0;strokeColor=#8A56B1;endSize=4;" edge="1" parent="7AmJ8JEjP1ZRzc5Ko-3L-1" source="NBvhuKIKGgRFrUnSh6L8-37" target="NBvhuKIKGgRFrUnSh6L8-52">
@@ -81,7 +81,7 @@
             <mxPoint x="-17.47" y="-13.3" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NBvhuKIKGgRFrUnSh6L8-37" value="Road Grid and &#xa;True Friction" style="shape=cylinder3;boundedLbl=0.5;backgroundOutline=0.5;size=3.133331298828111;labelBackgroundColor=none;fontSize=8;align=center;verticalAlign=middle;fillColor=#D1FFEC;" vertex="1" parent="7AmJ8JEjP1ZRzc5Ko-3L-1">
+        <mxCell id="NBvhuKIKGgRFrUnSh6L8-37" value="Road Grid and &#xa;True Friction" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=3.133331298828111;labelBackgroundColor=none;fontSize=8;align=center;verticalAlign=middle;fillColor=#D1FFEC;strokeWidth=1;" vertex="1" parent="7AmJ8JEjP1ZRzc5Ko-3L-1">
           <mxGeometry x="218.77999999999977" y="195" width="74.0156" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NBvhuKIKGgRFrUnSh6L8-38" value="Road Traffic" style="shape=cylinder3;boundedLbl=0.5;backgroundOutline=0.5;size=3.133331298828111;labelBackgroundColor=none;fontSize=8;align=center;verticalAlign=middle;fillColor=#D1FFEC;" vertex="1" parent="7AmJ8JEjP1ZRzc5Ko-3L-1">
@@ -116,7 +116,7 @@
             <mxPoint x="-5.68" y="-6.470000000000001" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NBvhuKIKGgRFrUnSh6L8-46" value="Aggregate Friction &#xa;Estimate" style="shape=cylinder3;boundedLbl=0.5;backgroundOutline=0.5;size=3.133331298828111;labelBackgroundColor=none;fontSize=8;align=center;verticalAlign=middle;fillColor=#81FFCC;" vertex="1" parent="7AmJ8JEjP1ZRzc5Ko-3L-1">
+        <mxCell id="NBvhuKIKGgRFrUnSh6L8-46" value="Aggregate Friction &#xa;Estimate" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=3.133331298828111;labelBackgroundColor=none;fontSize=8;align=center;verticalAlign=middle;fillColor=#81FFCC;" vertex="1" parent="7AmJ8JEjP1ZRzc5Ko-3L-1">
           <mxGeometry x="219" y="233.46" width="74.0156" height="29.9212" as="geometry" />
         </mxCell>
         <mxCell id="NBvhuKIKGgRFrUnSh6L8-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=0;endArrow=blockThin;endFill=1;fontSize=8;fontColor=#000000;endSize=4;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="7AmJ8JEjP1ZRzc5Ko-3L-1" source="NBvhuKIKGgRFrUnSh6L8-47" target="NBvhuKIKGgRFrUnSh6L8-34">

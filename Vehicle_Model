@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-28T07:38:32.449Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="YoJLTnR-BsUlZvxStXK5" version="13.7.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-09-28T07:39:02.592Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="BUyq4p7oQTmQzyKEmF_z" version="13.7.2" type="github" pages="2">
   <diagram id="HFicxrAT9uB4OnwrCg4q" name="Simulation Framework">
     <mxGraphModel dx="738" dy="375" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -224,7 +224,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="NBvhuKIKGgRFrUnSh6L8-54" value="local road &#xa;network" style="edgeLabel;align=left;verticalAlign=middle;resizable=0;points=[];fontSize=8;labelBackgroundColor=none;fontColor=#2155FF;" vertex="1" connectable="0" parent="NBvhuKIKGgRFrUnSh6L8-53">
+        <mxCell id="NBvhuKIKGgRFrUnSh6L8-54" value="local road &#xa;network" style="edgeLabel;align=left;verticalAlign=middle;resizable=0;points=[];fontSize=8;labelBackgroundColor=none;fontColor=#0000FF;fontStyle=1" vertex="1" connectable="0" parent="NBvhuKIKGgRFrUnSh6L8-53">
           <mxGeometry x="-0.3826" y="-1" relative="1" as="geometry">
             <mxPoint x="-15.4" y="-12.52" as="offset" />
           </mxGeometry>

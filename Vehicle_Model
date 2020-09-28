@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2020-09-28T06:57:23.980Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="gv3024OhG9i5o_qflQBw" version="13.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-28T06:59:18.538Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="QB96-5ugm-G9ZNHolIAr" version="13.7.2" type="github">
   <diagram id="rB1cR1QYe3p66tdpD9ig" name="Page-1">
-    <mxGraphModel dx="517" dy="262" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="738" dy="375" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="7QhpIMeR7Rw7yX3i3SGz-2" value="" style="rounded=1;whiteSpace=wrap;fillColor=#E0F4FF;labelBackgroundColor=#ffffff;arcSize=8;" vertex="1" parent="1">
+        <mxCell id="7QhpIMeR7Rw7yX3i3SGz-2" value="" style="rounded=1;fillColor=#E0F4FF;labelBackgroundColor=#ffffff;arcSize=8;" vertex="1" parent="1">
           <mxGeometry x="40" y="221" width="470" height="189" as="geometry" />
         </mxCell>
         <mxCell id="7QhpIMeR7Rw7yX3i3SGz-3" value="Vehicle Model" style="text;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
@@ -22,9 +22,9 @@
         <mxCell id="7QhpIMeR7Rw7yX3i3SGz-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;endArrow=blockThin;endFill=1;fontSize=8;fontColor=#2155FF;strokeColor=#3399FF;" edge="1" parent="1" source="7QhpIMeR7Rw7yX3i3SGz-8" target="7QhpIMeR7Rw7yX3i3SGz-52">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7QhpIMeR7Rw7yX3i3SGz-74" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;font color=&quot;#0000ff&quot; face=&quot;Arial&quot; style=&quot;font-size: 9px&quot;&gt;friction at tire patch&lt;/font&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=9;fontColor=#3399FF;labelBackgroundColor=none;" vertex="1" connectable="0" parent="7QhpIMeR7Rw7yX3i3SGz-62">
+        <mxCell id="7QhpIMeR7Rw7yX3i3SGz-74" value="friction at tire patch" style="edgeLabel;align=left;verticalAlign=middle;resizable=0;points=[];fontSize=9;labelBackgroundColor=none;fontColor=#2155FF;" vertex="1" connectable="0" parent="7QhpIMeR7Rw7yX3i3SGz-62">
           <mxGeometry x="-0.292" y="-1" relative="1" as="geometry">
-            <mxPoint x="13.31" y="-10" as="offset" />
+            <mxPoint x="-16.799999999999997" y="-9" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7QhpIMeR7Rw7yX3i3SGz-8" value="DB trajectory query" style="rounded=1;align=left;verticalAlign=middle;fillColor=#D1FFEC;strokeColor=#A2C7E8;fontSize=10;fontStyle=0" vertex="1" parent="1">
@@ -87,7 +87,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="7QhpIMeR7Rw7yX3i3SGz-61" value="road friction &#xa;measurement " style="edgeLabel;align=left;verticalAlign=middle;resizable=0;points=[];fontSize=9;fontColor=#2155FF;labelBackgroundColor=none;" vertex="1" connectable="0" parent="7QhpIMeR7Rw7yX3i3SGz-59">
+        <mxCell id="7QhpIMeR7Rw7yX3i3SGz-61" value="road friction &#xa;measurement " style="edgeLabel;align=left;verticalAlign=middle;resizable=0;points=[];fontSize=9;labelBackgroundColor=none;fontColor=#2155FF;" vertex="1" connectable="0" parent="7QhpIMeR7Rw7yX3i3SGz-59">
           <mxGeometry x="0.2004" relative="1" as="geometry">
             <mxPoint x="-31" y="-23.94" as="offset" />
           </mxGeometry>
@@ -103,9 +103,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="7QhpIMeR7Rw7yX3i3SGz-75" value="&lt;p style=&quot;margin-top: 0pt ; margin-bottom: 0pt ; margin-left: 0in ; text-align: left ; direction: ltr ; unicode-bidi: embed ; word-break: normal&quot;&gt;&lt;font color=&quot;#0000ff&quot; face=&quot;Arial&quot; style=&quot;font-size: 9px&quot;&gt;vehicle&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin-top: 0pt ; margin-bottom: 0pt ; margin-left: 0in ; text-align: left ; direction: ltr ; unicode-bidi: embed ; word-break: normal&quot;&gt;&lt;font color=&quot;#0000ff&quot; face=&quot;Arial&quot; style=&quot;font-size: 9px&quot;&gt;states&lt;/font&gt;&lt;/p&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=9;fontColor=#3399FF;labelBackgroundColor=none;" vertex="1" connectable="0" parent="7QhpIMeR7Rw7yX3i3SGz-60">
+        <mxCell id="7QhpIMeR7Rw7yX3i3SGz-75" value="vehicle&#xa;states" style="edgeLabel;align=left;verticalAlign=middle;resizable=0;points=[];fontSize=9;labelBackgroundColor=none;fontColor=#2155FF;" vertex="1" connectable="0" parent="7QhpIMeR7Rw7yX3i3SGz-60">
           <mxGeometry x="-0.2627" y="4" relative="1" as="geometry">
-            <mxPoint x="-3.8099999999999996" y="-16.61" as="offset" />
+            <mxPoint x="-19.65" y="-16.599999999999998" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7QhpIMeR7Rw7yX3i3SGz-52" value="Vehicle &#xa;Dynamics" style="rounded=1;align=center;verticalAlign=middle;fontSize=10;fontStyle=0;strokeColor=#578EC0;fillColor=#C5E0B4;" vertex="1" parent="1">

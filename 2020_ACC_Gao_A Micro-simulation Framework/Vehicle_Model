@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-28T21:19:50.854Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="GtR6iLlxgqic8HikJEDz" version="13.7.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-09-28T21:20:45.428Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="PoPQQPgW4Yrm30pXhenM" version="13.7.6" type="github" pages="2">
   <diagram id="HFicxrAT9uB4OnwrCg4q" name="Simulation Framework">
     <mxGraphModel dx="1550" dy="787" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -314,7 +314,7 @@
             <mxPoint x="-31" y="-22.94" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7QhpIMeR7Rw7yX3i3SGz-51" value="Driver Model &#xa;and Controller" style="rounded=1;align=center;verticalAlign=middle;fontSize=10;fontStyle=0;fillColor=#92D050;strokeColor=#5890C3;" parent="1" vertex="1">
+        <mxCell id="7QhpIMeR7Rw7yX3i3SGz-51" value="Friction &#xa;Estimator" style="rounded=1;align=center;verticalAlign=middle;fontSize=10;fontStyle=0;fillColor=#92D050;strokeColor=#5890C3;" parent="1" vertex="1">
           <mxGeometry x="318" y="250" width="72" height="35" as="geometry" />
         </mxCell>
         <mxCell id="7QhpIMeR7Rw7yX3i3SGz-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;entryX=0;entryY=0.75;entryDx=0;entryDy=0;endArrow=blockThin;endFill=1;fontSize=10;fontColor=#2155FF;strokeColor=#ABD294;" parent="1" source="7QhpIMeR7Rw7yX3i3SGz-52" target="7QhpIMeR7Rw7yX3i3SGz-54" edge="1">

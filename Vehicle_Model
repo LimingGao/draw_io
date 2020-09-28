@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-09-28T07:20:44.225Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="6VPARPNd51hO_wDAkAHs" version="13.7.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-09-28T07:21:42.589Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="fE5_jNowmd42clGwSxgL" version="13.7.2" type="github" pages="2">
   <diagram id="HFicxrAT9uB4OnwrCg4q" name="Simulation Framework">
-    <mxGraphModel dx="517" dy="262" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="886" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="7AmJ8JEjP1ZRzc5Ko-3L-0" />
         <mxCell id="7AmJ8JEjP1ZRzc5Ko-3L-1" parent="7AmJ8JEjP1ZRzc5Ko-3L-0" />
@@ -173,6 +173,18 @@
         </mxCell>
         <mxCell id="NBvhuKIKGgRFrUnSh6L8-46" value="Aggregate Friction &#xa;Estimate" style="shape=cylinder3;boundedLbl=0.5;backgroundOutline=0.5;size=3.133331298828111;labelBackgroundColor=none;fontSize=8;align=center;verticalAlign=middle;fillColor=#D1FFEC;" vertex="1" parent="7AmJ8JEjP1ZRzc5Ko-3L-1">
           <mxGeometry x="221" y="237" width="70" height="29.9212" as="geometry" />
+        </mxCell>
+        <mxCell id="NBvhuKIKGgRFrUnSh6L8-47" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#000000;fillColor=#D1FFEC;fontSize=8;fontColor=#000000;align=center;" vertex="1" parent="7AmJ8JEjP1ZRzc5Ko-3L-1">
+          <mxGeometry x="57" y="83" width="120" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="NBvhuKIKGgRFrUnSh6L8-48" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#000000;fillColor=#D1FFEC;fontSize=8;fontColor=#000000;align=center;" vertex="1" parent="7AmJ8JEjP1ZRzc5Ko-3L-1">
+          <mxGeometry x="57" y="168" width="120" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="NBvhuKIKGgRFrUnSh6L8-49" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#000000;fillColor=#D1FFEC;fontSize=8;fontColor=#000000;align=center;" vertex="1" parent="7AmJ8JEjP1ZRzc5Ko-3L-1">
+          <mxGeometry x="57" y="233.92" width="120" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="NBvhuKIKGgRFrUnSh6L8-50" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#000000;fillColor=#D1FFEC;fontSize=8;fontColor=#000000;align=center;" vertex="1" parent="7AmJ8JEjP1ZRzc5Ko-3L-1">
+          <mxGeometry x="57" y="280" width="120" height="33" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

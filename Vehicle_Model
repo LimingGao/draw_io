@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-09-28T07:11:20.978Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="euvB-Wf965YO4OFIAIK4" version="13.7.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-09-28T07:16:10.064Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="gWckRPdvpGxbNC8nkYF3" version="13.7.2" type="github" pages="2">
   <diagram id="HFicxrAT9uB4OnwrCg4q" name="Simulation Framework">
-    <mxGraphModel dx="1069" dy="543" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="620" dy="315" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="7AmJ8JEjP1ZRzc5Ko-3L-0" />
         <mxCell id="7AmJ8JEjP1ZRzc5Ko-3L-1" parent="7AmJ8JEjP1ZRzc5Ko-3L-0" />
@@ -152,6 +152,12 @@
         </mxCell>
         <mxCell id="NBvhuKIKGgRFrUnSh6L8-31" value="Simulation Framework" style="text;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="7AmJ8JEjP1ZRzc5Ko-3L-1">
           <mxGeometry x="211.32000000000002" y="40" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NBvhuKIKGgRFrUnSh6L8-34" value="Road Network Map" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=3.133331298828111;labelBackgroundColor=none;fontSize=8;align=center;verticalAlign=middle;fillColor=#D1FFEC;" vertex="1" parent="7AmJ8JEjP1ZRzc5Ko-3L-1">
+          <mxGeometry x="233" y="130" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NBvhuKIKGgRFrUnSh6L8-35" value="Road Traffic" style="shape=cylinder3;boundedLbl=0.5;backgroundOutline=0.5;size=3.133331298828111;labelBackgroundColor=none;fontSize=8;align=center;verticalAlign=middle;fillColor=#D1FFEC;" vertex="1" parent="7AmJ8JEjP1ZRzc5Ko-3L-1">
+          <mxGeometry x="233" y="164.5" width="70" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

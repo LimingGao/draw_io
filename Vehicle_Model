@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-09-28T06:31:01.644Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="OzO8pKYa8q3zESwD6Tkb" version="13.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-28T06:32:28.807Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="0FMrpLD7tFkFIVeaKxov" version="13.7.2" type="github">
   <diagram id="rB1cR1QYe3p66tdpD9ig" name="Page-1">
-    <mxGraphModel dx="431" dy="232" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="620" dy="334" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -64,14 +64,14 @@
             <mxPoint x="-21.33" y="-14" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7QhpIMeR7Rw7yX3i3SGz-51" value="Driver Model and Controller" style="rounded=1;align=center;verticalAlign=middle;html=1;fontSize=10;fontStyle=0;fillColor=#F8CBAD;strokeColor=#578EC0;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="7QhpIMeR7Rw7yX3i3SGz-51" value="Driver Model and Controller" style="rounded=1;align=center;verticalAlign=middle;html=1;fontSize=10;fontStyle=0;whiteSpace=wrap;fillColor=#92D050;strokeColor=#5890C3;" vertex="1" parent="1">
           <mxGeometry x="320" y="250" width="74.14" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="7QhpIMeR7Rw7yX3i3SGz-52" value="Driver Model and Controller" style="rounded=1;align=center;verticalAlign=middle;html=1;fontSize=10;fontStyle=0;fillColor=#F8CBAD;strokeColor=#578EC0;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="7QhpIMeR7Rw7yX3i3SGz-52" value="Driver Model and Controller" style="rounded=1;align=center;verticalAlign=middle;html=1;fontSize=10;fontStyle=0;strokeColor=#578EC0;whiteSpace=wrap;fillColor=#C5E0B4;" vertex="1" parent="1">
           <mxGeometry x="320" y="307.05" width="74.14" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="7QhpIMeR7Rw7yX3i3SGz-53" value="Driver Model and Controller" style="rounded=1;align=center;verticalAlign=middle;html=1;fontSize=10;fontStyle=0;fillColor=#F8CBAD;strokeColor=#578EC0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="404.86" y="285" width="74.14" height="35" as="geometry" />
+        <mxCell id="7QhpIMeR7Rw7yX3i3SGz-54" value="DB trajectory query" style="rounded=1;align=left;verticalAlign=middle;fillColor=#D1FFEC;strokeColor=#A2C7E8;html=1;fontSize=10;fontStyle=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="410" y="287.95" width="70" height="22.05" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

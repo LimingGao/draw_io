@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-28T21:18:24.445Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="RjfwnSWUfxYXqzOaZvoS" version="13.7.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-09-28T21:19:50.854Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="GtR6iLlxgqic8HikJEDz" version="13.7.6" type="github" pages="2">
   <diagram id="HFicxrAT9uB4OnwrCg4q" name="Simulation Framework">
     <mxGraphModel dx="1550" dy="787" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -235,7 +235,7 @@
         <mxCell id="7QhpIMeR7Rw7yX3i3SGz-4" value="DB trajectory query" style="rounded=1;align=left;verticalAlign=middle;fillColor=#D1FFEC;strokeColor=#A2C7E8;fontSize=10;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="40" y="250" width="120" height="22.05" as="geometry" />
         </mxCell>
-        <mxCell id="7QhpIMeR7Rw7yX3i3SGz-6" value="DB trajectory query" style="rounded=1;align=left;verticalAlign=middle;fillColor=#D1FFEC;strokeColor=#A2C7E8;fontSize=10;fontStyle=0" parent="1" vertex="1">
+        <mxCell id="7QhpIMeR7Rw7yX3i3SGz-6" value="DB road geometry  query" style="rounded=1;align=left;verticalAlign=middle;fillColor=#D1FFEC;strokeColor=#A2C7E8;fontSize=10;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="40" y="280" width="120" height="22.05" as="geometry" />
         </mxCell>
         <mxCell id="7QhpIMeR7Rw7yX3i3SGz-7" value="DB friction preview query" style="rounded=1;align=left;verticalAlign=middle;fillColor=#D1FFEC;strokeColor=#A2C7E8;fontSize=10;fontStyle=0" parent="1" vertex="1">

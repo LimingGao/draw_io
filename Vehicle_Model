@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-09-28T07:43:27.964Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="uhQaVPgHunyuIprqFUCp" version="13.7.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-09-28T07:43:52.261Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="UgHrZC3lrYilpxuxwctg" version="13.7.2" type="github" pages="2">
   <diagram id="HFicxrAT9uB4OnwrCg4q" name="Simulation Framework">
-    <mxGraphModel dx="431" dy="219" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="738" dy="375" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="7AmJ8JEjP1ZRzc5Ko-3L-0" />
         <mxCell id="7AmJ8JEjP1ZRzc5Ko-3L-1" parent="7AmJ8JEjP1ZRzc5Ko-3L-0" />
@@ -177,7 +177,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="NBvhuKIKGgRFrUnSh6L8-76" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;font-size: 8px&quot;&gt;&lt;b&gt;lane level static road map&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=10;fontColor=#0000FF;labelBackgroundColor=none;" vertex="1" connectable="0" parent="NBvhuKIKGgRFrUnSh6L8-72">
+        <mxCell id="NBvhuKIKGgRFrUnSh6L8-76" value="lane level static road map" style="edgeLabel;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=8;fontColor=#0000FF;labelBackgroundColor=none;fontStyle=1" vertex="1" connectable="0" parent="NBvhuKIKGgRFrUnSh6L8-72">
           <mxGeometry x="-0.269" y="1" relative="1" as="geometry">
             <mxPoint x="-87.82000000000001" y="-8.42" as="offset" />
           </mxGeometry>

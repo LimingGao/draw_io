@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-28T21:18:02.891Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="BIuRZXmCFg4HeKecaaR7" version="13.7.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-09-28T21:18:24.445Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="RjfwnSWUfxYXqzOaZvoS" version="13.7.6" type="github" pages="2">
   <diagram id="HFicxrAT9uB4OnwrCg4q" name="Simulation Framework">
     <mxGraphModel dx="1550" dy="787" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -246,7 +246,7 @@
         </mxCell>
         <mxCell id="7QhpIMeR7Rw7yX3i3SGz-74" value="friction at tire patch" style="edgeLabel;align=left;verticalAlign=middle;resizable=0;points=[];fontSize=9;labelBackgroundColor=none;fontColor=#2155FF;" parent="7QhpIMeR7Rw7yX3i3SGz-62" vertex="1" connectable="0">
           <mxGeometry x="-0.292" y="-1" relative="1" as="geometry">
-            <mxPoint x="-16.799999999999997" y="-9" as="offset" />
+            <mxPoint x="-16.799999999999997" y="-8" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7QhpIMeR7Rw7yX3i3SGz-8" value="DB tire friction query" style="rounded=1;align=left;verticalAlign=middle;fillColor=#D1FFEC;strokeColor=#A2C7E8;fontSize=10;fontStyle=0" parent="1" vertex="1">
@@ -276,7 +276,7 @@
         </mxCell>
         <mxCell id="7QhpIMeR7Rw7yX3i3SGz-39" value="vehicle &#xa;trajectory" style="edgeLabel;resizable=0;align=left;verticalAlign=middle;labelBackgroundColor=none;fontSize=9;fontColor=#2155FF;" parent="7QhpIMeR7Rw7yX3i3SGz-38" connectable="0" vertex="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-21.33" y="-14" as="offset" />
+            <mxPoint x="-21.33" y="-13" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7QhpIMeR7Rw7yX3i3SGz-47" value="" style="endArrow=blockThin;strokeColor=#7030A0;fontSize=10;endFill=1;entryX=0.006;entryY=0.772;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=#2155FF;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="7QhpIMeR7Rw7yX3i3SGz-7" target="7QhpIMeR7Rw7yX3i3SGz-9" edge="1">
@@ -287,7 +287,7 @@
         </mxCell>
         <mxCell id="7QhpIMeR7Rw7yX3i3SGz-48" value="preview &#xa;friction" style="edgeLabel;resizable=0;align=left;verticalAlign=middle;labelBackgroundColor=none;fontSize=9;fontColor=#2155FF;" parent="7QhpIMeR7Rw7yX3i3SGz-47" connectable="0" vertex="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-21.33" y="-14" as="offset" />
+            <mxPoint x="-21.33" y="-12" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7QhpIMeR7Rw7yX3i3SGz-49" value="" style="endArrow=blockThin;strokeColor=#7030A0;fontSize=10;endFill=1;entryX=0.002;entryY=0.443;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=#2155FF;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="7QhpIMeR7Rw7yX3i3SGz-6" target="7QhpIMeR7Rw7yX3i3SGz-9" edge="1">
@@ -298,7 +298,7 @@
         </mxCell>
         <mxCell id="7QhpIMeR7Rw7yX3i3SGz-50" value="road &#xa;geometry" style="edgeLabel;resizable=0;align=left;verticalAlign=middle;labelBackgroundColor=none;fontSize=9;fontColor=#2155FF;" parent="7QhpIMeR7Rw7yX3i3SGz-49" connectable="0" vertex="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-21.33" y="-14" as="offset" />
+            <mxPoint x="-21.33" y="-13" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7QhpIMeR7Rw7yX3i3SGz-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;entryX=0;entryY=0.25;entryDx=0;entryDy=0;endArrow=blockThin;endFill=1;fontSize=10;fontColor=#2155FF;strokeColor=#05B2F0;" parent="1" source="7QhpIMeR7Rw7yX3i3SGz-51" target="7QhpIMeR7Rw7yX3i3SGz-54" edge="1">
@@ -311,7 +311,7 @@
         </mxCell>
         <mxCell id="7QhpIMeR7Rw7yX3i3SGz-61" value="road friction &#xa;measurement " style="edgeLabel;align=left;verticalAlign=middle;resizable=0;points=[];fontSize=9;labelBackgroundColor=none;fontColor=#2155FF;" parent="7QhpIMeR7Rw7yX3i3SGz-59" vertex="1" connectable="0">
           <mxGeometry x="0.2004" relative="1" as="geometry">
-            <mxPoint x="-31" y="-23.94" as="offset" />
+            <mxPoint x="-31" y="-22.94" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7QhpIMeR7Rw7yX3i3SGz-51" value="Driver Model &#xa;and Controller" style="rounded=1;align=center;verticalAlign=middle;fontSize=10;fontStyle=0;fillColor=#92D050;strokeColor=#5890C3;" parent="1" vertex="1">

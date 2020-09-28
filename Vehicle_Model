@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-09-28T18:12:20.916Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="a9x_IM_HBbO8LAeG1kT-" version="13.7.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-09-28T18:12:50.731Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="N5WT83IB1B20WUKme2oz" version="13.7.2" type="github" pages="2">
   <diagram id="HFicxrAT9uB4OnwrCg4q" name="Simulation Framework">
-    <mxGraphModel dx="620" dy="315" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1292" dy="656" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="7AmJ8JEjP1ZRzc5Ko-3L-0" />
         <mxCell id="7AmJ8JEjP1ZRzc5Ko-3L-1" parent="7AmJ8JEjP1ZRzc5Ko-3L-0" />
@@ -238,7 +238,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="NBvhuKIKGgRFrUnSh6L8-88" value="raw friction measurement data" style="edgeLabel;align=left;verticalAlign=middle;resizable=0;points=[];fontSize=8;fontColor=#0000FF;labelBackgroundColor=none;" vertex="1" connectable="0" parent="NBvhuKIKGgRFrUnSh6L8-70">
+        <mxCell id="NBvhuKIKGgRFrUnSh6L8-88" value="raw friction measurement data" style="edgeLabel;align=left;verticalAlign=middle;resizable=0;points=[];fontSize=8;fontColor=#0000FF;labelBackgroundColor=none;fontStyle=1" vertex="1" connectable="0" parent="NBvhuKIKGgRFrUnSh6L8-70">
           <mxGeometry x="0.0277" y="2" relative="1" as="geometry">
             <mxPoint x="-103.87" y="-9" as="offset" />
           </mxGeometry>

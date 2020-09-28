@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-28T07:35:11.793Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="9r_Rs5ecRUvYMEV8lJY9" version="13.7.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-09-28T07:35:28.421Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="cZNzmSjYspE-g0HkndwA" version="13.7.2" type="github" pages="2">
   <diagram id="HFicxrAT9uB4OnwrCg4q" name="Simulation Framework">
     <mxGraphModel dx="620" dy="315" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -155,6 +155,16 @@
         </mxCell>
         <mxCell id="NBvhuKIKGgRFrUnSh6L8-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=0;entryX=0.001;entryY=0.117;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=blockThin;endFill=1;strokeColor=#000000;fontSize=10;fontColor=#2155FF;" edge="1" parent="7AmJ8JEjP1ZRzc5Ko-3L-1" source="NBvhuKIKGgRFrUnSh6L8-34" target="NBvhuKIKGgRFrUnSh6L8-52">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NBvhuKIKGgRFrUnSh6L8-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=0;entryX=0.008;entryY=0.62;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=blockThin;endFill=1;strokeColor=#000000;fontSize=10;fontColor=#2155FF;" edge="1" parent="7AmJ8JEjP1ZRzc5Ko-3L-1" source="NBvhuKIKGgRFrUnSh6L8-34" target="NBvhuKIKGgRFrUnSh6L8-48">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="300" y="108" />
+              <mxPoint x="300" y="140" />
+              <mxPoint x="40" y="140" />
+              <mxPoint x="40" y="186" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="NBvhuKIKGgRFrUnSh6L8-34" value="Road Network Map" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=3.133331298828111;labelBackgroundColor=none;fontSize=8;align=center;verticalAlign=middle;fillColor=#D1FFEC;" vertex="1" parent="7AmJ8JEjP1ZRzc5Ko-3L-1">
           <mxGeometry x="218.77999999999994" y="96.36" width="74.0156" height="24.0157" as="geometry" />

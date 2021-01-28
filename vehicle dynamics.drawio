@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-28T18:08:55.021Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="hZmczOmuMnczK85LiAjq" version="13.7.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-28T18:09:32.354Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="5IRqUXpIBvdOcBlEaoSJ" version="13.7.6" type="github">
   <diagram id="g7usEjnd5ee0Ly5ZbJtn" name="Page-1">
     <mxGraphModel dx="738" dy="398" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -31,7 +31,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="kuxUDI9ris-chH6kOZA5-68" value="road friction,&#xa;road geometry" style="rounded=1;labelBackgroundColor=none;arcSize=16;verticalAlign=middle;fontSize=10;align=center;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="143.99999999999997" y="440" width="72" height="41.42" as="geometry" />
+          <mxGeometry x="150" y="440" width="66" height="41.42" as="geometry" />
         </mxCell>
         <mxCell id="kuxUDI9ris-chH6kOZA5-50" value="Vehicle &#xa;Kinematics" style="rounded=1;align=center;verticalAlign=top;fontSize=10;fontStyle=0;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;glass=0;" vertex="1" parent="1">
           <mxGeometry x="451.65" y="260" width="98.35" height="140" as="geometry" />
@@ -195,7 +195,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kuxUDI9ris-chH6kOZA5-31" value="Driver &#xa;Model and &#xa;Controller" style="rounded=1;align=center;verticalAlign=middle;fontSize=10;fontStyle=0;fillColor=#F8CBAD;strokeColor=#578EC0;arcSize=10;" vertex="1" parent="1">
-          <mxGeometry x="150" y="284.68" width="60" height="95.03" as="geometry" />
+          <mxGeometry x="150" y="284.68" width="66" height="95.03" as="geometry" />
         </mxCell>
         <mxCell id="kuxUDI9ris-chH6kOZA5-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=7;entryX=0;entryY=0.25;entryDx=0;entryDy=0;endArrow=classicThin;endFill=1;" edge="1" parent="1" source="kuxUDI9ris-chH6kOZA5-33" target="kuxUDI9ris-chH6kOZA5-51">
           <mxGeometry relative="1" as="geometry">

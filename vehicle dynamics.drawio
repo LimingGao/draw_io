@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-28T18:16:30.336Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="g-5nO7WrAEJgBgA_YpuL" version="13.7.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-28T18:17:12.769Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="I48IRRZu3n9brvPWScBt" version="13.7.6" type="github">
   <diagram id="g7usEjnd5ee0Ly5ZbJtn" name="Page-1">
     <mxGraphModel dx="738" dy="398" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -27,7 +27,7 @@
         </mxCell>
         <mxCell id="kuxUDI9ris-chH6kOZA5-77" value="μ" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=7;" vertex="1" connectable="0" parent="kuxUDI9ris-chH6kOZA5-73">
           <mxGeometry x="0.3804" y="-1" relative="1" as="geometry">
-            <mxPoint x="-15" y="-8" as="offset" />
+            <mxPoint x="-22" y="-8" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="kuxUDI9ris-chH6kOZA5-78" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classicThin;endFill=1;fontSize=7;dashed=1;" edge="1" parent="1" source="kuxUDI9ris-chH6kOZA5-68" target="kuxUDI9ris-chH6kOZA5-31">
@@ -287,7 +287,7 @@
         </mxCell>
         <mxCell id="kuxUDI9ris-chH6kOZA5-75" value="α" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=7;" vertex="1" connectable="0" parent="kuxUDI9ris-chH6kOZA5-64">
           <mxGeometry x="-0.6424" y="-1" relative="1" as="geometry">
-            <mxPoint x="0.8499999999999996" y="-6.92" as="offset" />
+            <mxPoint x="3.8499999999999996" y="-6.92" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="kuxUDI9ris-chH6kOZA5-48" value="Slip Angle" style="rounded=1;align=center;verticalAlign=middle;fillColor=#b1ddf0;strokeColor=#10739e;fontSize=9;fontStyle=0;" vertex="1" parent="1">
@@ -298,7 +298,7 @@
         </mxCell>
         <mxCell id="kuxUDI9ris-chH6kOZA5-74" value="κ" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=7;" vertex="1" connectable="0" parent="kuxUDI9ris-chH6kOZA5-63">
           <mxGeometry x="0.016" y="6" relative="1" as="geometry">
-            <mxPoint x="-20.43" y="-0.3099999999999996" as="offset" />
+            <mxPoint x="-17.43" y="-0.3099999999999996" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="kuxUDI9ris-chH6kOZA5-51" value="Slip Ratio" style="rounded=1;align=center;verticalAlign=middle;fillColor=#b1ddf0;strokeColor=#10739e;fontSize=9;fontStyle=0;" vertex="1" parent="1">
@@ -324,7 +324,7 @@
         </mxCell>
         <mxCell id="kuxUDI9ris-chH6kOZA5-76" value="Fz" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=7;" vertex="1" connectable="0" parent="kuxUDI9ris-chH6kOZA5-62">
           <mxGeometry x="-0.736" y="1" relative="1" as="geometry">
-            <mxPoint y="-6" as="offset" />
+            <mxPoint x="-11" y="-6" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="kuxUDI9ris-chH6kOZA5-61" value="Normal Force" style="rounded=1;align=center;verticalAlign=middle;fontSize=9;fontStyle=0;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">

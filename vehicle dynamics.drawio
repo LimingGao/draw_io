@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-01-28T17:06:03.487Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="crBohxyWfEJTAjf35wS4" version="13.7.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-28T17:10:26.380Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="8y5zPg_CwgI9MnZ6vdB-" version="13.7.6" type="github">
   <diagram id="g7usEjnd5ee0Ly5ZbJtn" name="Page-1">
-    <mxGraphModel dx="517" dy="279" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="620" dy="334" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -146,7 +146,7 @@
         </mxCell>
         <mxCell id="kuxUDI9ris-chH6kOZA5-38" value="driving/brake torque T" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=7;" vertex="1" connectable="0" parent="kuxUDI9ris-chH6kOZA5-37">
           <mxGeometry x="-0.2581" y="-1" relative="1" as="geometry">
-            <mxPoint y="7.240000000000002" as="offset" />
+            <mxPoint x="-16.34" y="-12.559999999999999" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="kuxUDI9ris-chH6kOZA5-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;fontSize=7;" edge="1" parent="1" source="kuxUDI9ris-chH6kOZA5-31" target="kuxUDI9ris-chH6kOZA5-39">
@@ -154,20 +154,45 @@
         </mxCell>
         <mxCell id="kuxUDI9ris-chH6kOZA5-42" value="steering δ" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=7;" vertex="1" connectable="0" parent="kuxUDI9ris-chH6kOZA5-41">
           <mxGeometry x="-0.1988" y="1" relative="1" as="geometry">
-            <mxPoint x="-19.77" y="8" as="offset" />
+            <mxPoint x="-19.77" y="-6" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="kuxUDI9ris-chH6kOZA5-31" value="Driver &#xa;Model and &#xa;Controller" style="rounded=1;align=center;verticalAlign=middle;fontSize=10;fontStyle=0;fillColor=#F8CBAD;strokeColor=#578EC0;arcSize=10;" vertex="1" parent="1">
           <mxGeometry x="150" y="300" width="60" height="92.05" as="geometry" />
         </mxCell>
+        <mxCell id="kuxUDI9ris-chH6kOZA5-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=7;" edge="1" parent="1" source="kuxUDI9ris-chH6kOZA5-33">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="490.68000000000006" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kuxUDI9ris-chH6kOZA5-45" value="rotational velocity&amp;nbsp;ω" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=7;" vertex="1" connectable="0" parent="kuxUDI9ris-chH6kOZA5-44">
+          <mxGeometry x="0.169" relative="1" as="geometry">
+            <mxPoint x="-19.07" y="-6" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="kuxUDI9ris-chH6kOZA5-33" value="4 Wheels" style="rounded=1;align=center;verticalAlign=middle;fontSize=10;fontStyle=0;fillColor=#92D050;strokeColor=#5890C3;" vertex="1" parent="1">
-          <mxGeometry x="327.68" y="390" width="83" height="20" as="geometry" />
+          <mxGeometry x="327.67" y="410" width="83" height="20" as="geometry" />
         </mxCell>
         <mxCell id="kuxUDI9ris-chH6kOZA5-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="kuxUDI9ris-chH6kOZA5-33" target="kuxUDI9ris-chH6kOZA5-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="kuxUDI9ris-chH6kOZA5-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=7;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="kuxUDI9ris-chH6kOZA5-35" target="kuxUDI9ris-chH6kOZA5-39">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="600" y="330" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="570" y="330" />
+              <mxPoint x="570" y="380" />
+              <mxPoint x="369" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kuxUDI9ris-chH6kOZA5-47" value="Ftx,Fty" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=7;" vertex="1" connectable="0" parent="kuxUDI9ris-chH6kOZA5-46">
+          <mxGeometry x="0.217" relative="1" as="geometry">
+            <mxPoint x="2.99" y="-6" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="kuxUDI9ris-chH6kOZA5-35" value="Tires" style="rounded=1;align=center;verticalAlign=middle;fillColor=#D1FFEC;strokeColor=#A2C7E8;fontSize=9;fontStyle=0;" vertex="1" parent="1">
-          <mxGeometry x="560" y="333.97" width="64" height="42.05" as="geometry" />
+          <mxGeometry x="486" y="308.97" width="64" height="42.05" as="geometry" />
         </mxCell>
         <mxCell id="kuxUDI9ris-chH6kOZA5-39" value="Vehicle Body:&#xa;Longitudinal,&#xa;Lateral,Yaw" style="rounded=1;align=center;verticalAlign=middle;fontSize=10;fontStyle=0;fillColor=#92D050;strokeColor=#5890C3;" vertex="1" parent="1">
           <mxGeometry x="327" y="300" width="83" height="60" as="geometry" />

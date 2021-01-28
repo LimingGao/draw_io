@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-28T18:11:54.672Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="HxhWw3qnUtmTl6TwBoTP" version="13.7.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-28T18:12:35.569Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="hCKFOHtLswO4RmWcHma2" version="13.7.6" type="github">
   <diagram id="g7usEjnd5ee0Ly5ZbJtn" name="Page-1">
     <mxGraphModel dx="738" dy="398" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -291,7 +291,7 @@
             <mxPoint x="0.8499999999999996" y="-6.92" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kuxUDI9ris-chH6kOZA5-48" value="Slip Angle" style="rounded=1;align=center;verticalAlign=middle;fillColor=#D1FFEC;strokeColor=#A2C7E8;fontSize=9;fontStyle=0;" vertex="1" parent="1">
+        <mxCell id="kuxUDI9ris-chH6kOZA5-48" value="Slip Angle" style="rounded=1;align=center;verticalAlign=middle;fillColor=#b1ddf0;strokeColor=#10739e;fontSize=9;fontStyle=0;" vertex="1" parent="1">
           <mxGeometry x="468.72" y="348.28999999999996" width="64.21" height="31.42" as="geometry" />
         </mxCell>
         <mxCell id="kuxUDI9ris-chH6kOZA5-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classicThin;endFill=1;fontSize=7;entryX=-0.016;entryY=0.204;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="kuxUDI9ris-chH6kOZA5-51" target="kuxUDI9ris-chH6kOZA5-35">
@@ -302,7 +302,7 @@
             <mxPoint x="-20.43" y="-0.3099999999999996" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kuxUDI9ris-chH6kOZA5-51" value="Slip Ratio" style="rounded=1;align=center;verticalAlign=middle;fillColor=#D1FFEC;strokeColor=#A2C7E8;fontSize=9;fontStyle=0;" vertex="1" parent="1">
+        <mxCell id="kuxUDI9ris-chH6kOZA5-51" value="Slip Ratio" style="rounded=1;align=center;verticalAlign=middle;fillColor=#b1ddf0;strokeColor=#10739e;fontSize=9;fontStyle=0;" vertex="1" parent="1">
           <mxGeometry x="468.72" y="301" width="64.21" height="31.42" as="geometry" />
         </mxCell>
         <mxCell id="kuxUDI9ris-chH6kOZA5-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;fontSize=7;endArrow=classicThin;endFill=1;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="kuxUDI9ris-chH6kOZA5-31" target="kuxUDI9ris-chH6kOZA5-51">
@@ -323,7 +323,7 @@
             <mxPoint y="-6" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kuxUDI9ris-chH6kOZA5-61" value="Normal Force" style="rounded=1;align=center;verticalAlign=middle;fillColor=#b1ddf0;strokeColor=#10739e;fontSize=9;fontStyle=0;" vertex="1" parent="1">
+        <mxCell id="kuxUDI9ris-chH6kOZA5-61" value="Normal Force" style="rounded=1;align=center;verticalAlign=middle;fontSize=9;fontStyle=0;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="468.72" y="418.58" width="64.21" height="31.42" as="geometry" />
         </mxCell>
       </root>

@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-29T17:29:53.568Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="DguUKZm1c7nrJVA7T-tl" version="14.4.9" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-03-29T17:36:45.605Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="uHVAzcgraCITbUGB_C8o" version="14.4.9" type="github" pages="2">
   <diagram id="g7usEjnd5ee0Ly5ZbJtn" name="Page-1">
-    <mxGraphModel dx="620" dy="312" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="431" dy="216" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -359,12 +359,42 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="tJCZRqBJ2CxmemZXy25r-1" value="Human Driver" style="rounded=1;align=center;verticalAlign=middle;fontSize=10;fontStyle=0;fillColor=#F8CBAD;strokeColor=#578EC0;arcSize=10;" vertex="1" parent="1">
-          <mxGeometry x="576.99" y="740" width="83.89" height="40" as="geometry" />
+          <mxGeometry x="580" y="740" width="80.88" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tJCZRqBJ2CxmemZXy25r-2" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;startArrow=blockThin;startFill=1;endArrow=none;endFill=0;strokeWidth=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;dashed=1;" edge="1" parent="1" source="tJCZRqBJ2CxmemZXy25r-1" target="K6NKCnMjnbAVRSnIbpeF-42">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="391.12948000000006" y="616.94637" as="sourcePoint" />
             <mxPoint x="364.66048" y="617.1652" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FIuZF2IC0c6RJkiDbf_0-1" value="PlayStation" style="rounded=1;align=center;verticalAlign=middle;fillColor=#d0cee2;strokeColor=#56517e;fontSize=9;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="425" y="740" width="64" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FIuZF2IC0c6RJkiDbf_0-3" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;startArrow=none;startFill=0;endArrow=blockThin;endFill=1;strokeWidth=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="tJCZRqBJ2CxmemZXy25r-1" target="FIuZF2IC0c6RJkiDbf_0-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="461.4026299999999" y="776.72041" as="sourcePoint" />
+            <mxPoint x="432.3997000000001" y="776.94456" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FIuZF2IC0c6RJkiDbf_0-6" value="&lt;span style=&quot;font-size: 8px ; background-color: rgb(248 , 249 , 250)&quot;&gt;DriverCommand&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=9;" vertex="1" connectable="0" parent="FIuZF2IC0c6RJkiDbf_0-3">
+          <mxGeometry x="-0.1623" y="2" relative="1" as="geometry">
+            <mxPoint x="-2.48" y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FIuZF2IC0c6RJkiDbf_0-4" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;startArrow=blockThin;startFill=1;endArrow=none;endFill=0;strokeWidth=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" target="FIuZF2IC0c6RJkiDbf_0-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="496" y="650" as="sourcePoint" />
+            <mxPoint x="369.08860000000004" y="720.0029999999999" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="496" y="650" />
+              <mxPoint x="410" y="650" />
+              <mxPoint x="410" y="755" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FIuZF2IC0c6RJkiDbf_0-7" value="throttle/brake/steering" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=9;" vertex="1" connectable="0" parent="FIuZF2IC0c6RJkiDbf_0-4">
+          <mxGeometry x="-0.2633" y="1" relative="1" as="geometry">
+            <mxPoint x="36.83" y="49" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>

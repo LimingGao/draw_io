@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-29T16:37:41.755Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="dz3Fi6nqYqwtwFI07o1K" version="14.4.9" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-03-29T16:39:52.228Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="24f2Wt3UpVRWriRrXS-l" version="14.4.9" type="github" pages="2">
   <diagram id="g7usEjnd5ee0Ly5ZbJtn" name="Page-1">
-    <mxGraphModel dx="360" dy="181" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="517" dy="260" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -195,11 +195,11 @@
             <mxPoint x="-24.120000000000005" y="-7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="K6NKCnMjnbAVRSnIbpeF-18" value="Serialized&#xa;Data Streams" style="text;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;labelBackgroundColor=none;fontSize=9;" vertex="1" parent="1">
-          <mxGeometry x="322.11000000000007" y="540" width="70" height="30" as="geometry" />
+        <mxCell id="K6NKCnMjnbAVRSnIbpeF-18" value="Serialized&#xa;Data &#xa;Streams" style="text;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;labelBackgroundColor=none;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="323.11000000000007" y="533.07" width="50" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="K6NKCnMjnbAVRSnIbpeF-19" value="Deserialized&#xa;Data Streams" style="text;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;labelBackgroundColor=none;fontSize=9;" vertex="1" parent="1">
-          <mxGeometry x="348" y="647.48" width="70" height="30" as="geometry" />
+        <mxCell id="K6NKCnMjnbAVRSnIbpeF-19" value="Deserialized&#xa;Data &#xa;Streams" style="text;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;labelBackgroundColor=none;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="323.11" y="643.48" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="K6NKCnMjnbAVRSnIbpeF-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;startArrow=blockThin;startFill=1;endArrow=none;endFill=0;strokeWidth=1;entryX=0.005;entryY=0.502;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="K6NKCnMjnbAVRSnIbpeF-18">
           <mxGeometry relative="1" as="geometry">
@@ -208,6 +208,15 @@
             <Array as="points">
               <mxPoint x="307" y="580" />
               <mxPoint x="307" y="535" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K6NKCnMjnbAVRSnIbpeF-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;startArrow=blockThin;startFill=1;endArrow=none;endFill=0;strokeWidth=1;entryX=-0.004;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="K6NKCnMjnbAVRSnIbpeF-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="308.11" y="634.54" as="sourcePoint" />
+            <mxPoint x="323.1100000000002" y="682.0199999999999" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="308.11" y="663.54" />
             </Array>
           </mxGeometry>
         </mxCell>

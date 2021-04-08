@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-08T06:36:07.914Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="yoAKLAIDwV6maWSGFn0t" version="14.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-08T06:39:08.688Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="23_cqvu-mSHddE9pmPQb" version="14.5.3" type="github">
   <diagram id="g7usEjnd5ee0Ly5ZbJtn" name="Page-1">
     <mxGraphModel dx="1016" dy="541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -264,6 +264,17 @@
         <mxCell id="zeGIx0DeRolgVq0zqXq3-20" value="Maximum &lt;br&gt;Deceleration&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zeGIx0DeRolgVq0zqXq3-19">
           <mxGeometry x="-0.4575" relative="1" as="geometry">
             <mxPoint x="-21.419999999999998" y="17.42" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zeGIx0DeRolgVq0zqXq3-22" value="" style="endArrow=classic;html=1;endFill=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="530" y="340" as="sourcePoint" />
+            <mxPoint x="512" y="325" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zeGIx0DeRolgVq0zqXq3-23" value="Maximum &lt;br&gt;Cornering" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zeGIx0DeRolgVq0zqXq3-22">
+          <mxGeometry x="-0.4575" relative="1" as="geometry">
+            <mxPoint x="24.830000000000002" y="17.42" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>

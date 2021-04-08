@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-08T13:54:09.835Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="S7039q3fRefRrDDJEwjE" version="14.5.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-04-08T13:55:21.954Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="lRTvMu18BNKxtprDRWx6" version="14.5.3" type="github" pages="2">
   <diagram id="g7usEjnd5ee0Ly5ZbJtn" name="Page-1">
     <mxGraphModel dx="1016" dy="541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -632,6 +632,9 @@
         </mxCell>
         <mxCell id="Za7xxilf6f-1Jp0edNZU-63" value="60" style="ellipse;whiteSpace=wrap;aspect=fixed;rounded=1;shadow=0;sketch=0;gradientColor=#ea6b66;fillColor=none;strokeColor=#FF0000;strokeWidth=1;fontSize=7;fontStyle=1;" vertex="1" parent="i4RcE1fr88npL_jNl3nU-1">
           <mxGeometry x="426.75800000000004" y="700.5780000000001" width="12.99" height="12.992099999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="Za7xxilf6f-1Jp0edNZU-69" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/isometric-city-basic-transport/480/car-police-front-01-128.png;strokeColor=#FF33FF;strokeWidth=3;fillColor=none;gradientColor=#ffffff;rotation=-30;" vertex="1" parent="i4RcE1fr88npL_jNl3nU-1">
+          <mxGeometry x="310" y="540" width="38" height="38" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

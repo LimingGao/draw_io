@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2021-03-30T02:00:09.463Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="O9vk2MVBGUQgLBWe6DqK" version="14.5.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-04-09T19:57:26.516Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="pd_d-_TIp1vf2ROdG2DM" version="14.5.3" type="github" pages="2">
   <diagram id="g7usEjnd5ee0Ly5ZbJtn" name="Page-1">
-    <mxGraphModel dx="654" dy="321" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="654" dy="346" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="hz4YJR4XzvFQm0AhXdvi-3" value="AIMSUN" style="rounded=1;align=center;verticalAlign=top;fontSize=11;fontStyle=0;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;glass=0;" parent="1" vertex="1">
+        <mxCell id="hz4YJR4XzvFQm0AhXdvi-3" value="AIMSUN: traffic simulator" style="rounded=1;align=center;verticalAlign=top;fontSize=11;fontStyle=0;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;glass=0;" parent="1" vertex="1">
           <mxGeometry x="153.9" y="280" width="200.16" height="157.48" as="geometry" />
         </mxCell>
         <mxCell id="hz4YJR4XzvFQm0AhXdvi-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;endArrow=blockThin;endFill=1;startArrow=blockThin;startFill=1;" parent="1" source="hz4YJR4XzvFQm0AhXdvi-4" target="hz4YJR4XzvFQm0AhXdvi-6" edge="1">
@@ -22,7 +22,7 @@
         <mxCell id="hz4YJR4XzvFQm0AhXdvi-7" value="UDP Socket" style="rounded=1;align=center;verticalAlign=middle;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=10;fontStyle=0;" parent="1" vertex="1">
           <mxGeometry x="381.9" y="346.15" width="64.21" height="43.71" as="geometry" />
         </mxCell>
-        <mxCell id="hz4YJR4XzvFQm0AhXdvi-8" value="ROS" style="rounded=1;align=center;verticalAlign=top;fontSize=11;fontStyle=0;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;glass=0;" parent="1" vertex="1">
+        <mxCell id="hz4YJR4XzvFQm0AhXdvi-8" value="ROS: external vehicle motion" style="rounded=1;align=center;verticalAlign=top;fontSize=11;fontStyle=0;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;glass=0;" parent="1" vertex="1">
           <mxGeometry x="473.9" y="280" width="190" height="157.48" as="geometry" />
         </mxCell>
         <mxCell id="hz4YJR4XzvFQm0AhXdvi-9" value="Master" style="rounded=1;align=center;verticalAlign=top;fontSize=10;fontStyle=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
@@ -246,7 +246,7 @@
         <mxCell id="K6NKCnMjnbAVRSnIbpeF-31" value="Deserialized&#xa;Data&#xa;Streams" style="rounded=1;align=center;verticalAlign=middle;fontSize=9;fontStyle=0;fillColor=none;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="357.01" y="404.09000000000003" width="54.21" height="38.79" as="geometry" />
         </mxCell>
-        <mxCell id="K6NKCnMjnbAVRSnIbpeF-34" value="AIMSUN" style="rounded=1;align=center;verticalAlign=top;fontSize=11;fontStyle=0;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;glass=0;" parent="1" vertex="1">
+        <mxCell id="K6NKCnMjnbAVRSnIbpeF-34" value="AIMSUN: traffic simulator" style="rounded=1;align=center;verticalAlign=top;fontSize=11;fontStyle=0;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;glass=0;" parent="1" vertex="1">
           <mxGeometry x="160" y="539.76" width="194.06" height="140.24" as="geometry" />
         </mxCell>
         <mxCell id="K6NKCnMjnbAVRSnIbpeF-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;endArrow=blockThin;endFill=1;startArrow=blockThin;startFill=1;" parent="1" source="K6NKCnMjnbAVRSnIbpeF-37" target="K6NKCnMjnbAVRSnIbpeF-38" edge="1">
@@ -264,7 +264,7 @@
         <mxCell id="K6NKCnMjnbAVRSnIbpeF-39" value="UDP Socket" style="rounded=1;align=center;verticalAlign=middle;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=10;fontStyle=0;" parent="1" vertex="1">
           <mxGeometry x="381.9" y="596.15" width="64.21" height="43.71" as="geometry" />
         </mxCell>
-        <mxCell id="K6NKCnMjnbAVRSnIbpeF-40" value="ROS" style="rounded=1;align=center;verticalAlign=top;fontSize=11;fontStyle=0;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;glass=0;" parent="1" vertex="1">
+        <mxCell id="K6NKCnMjnbAVRSnIbpeF-40" value="ROS: external vehicle motion" style="rounded=1;align=center;verticalAlign=top;fontSize=11;fontStyle=0;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;glass=0;" parent="1" vertex="1">
           <mxGeometry x="473.9" y="540" width="186.1" height="140" as="geometry" />
         </mxCell>
         <mxCell id="K6NKCnMjnbAVRSnIbpeF-41" value="Master" style="rounded=1;align=center;verticalAlign=top;fontSize=10;fontStyle=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
@@ -372,8 +372,8 @@
             <mxPoint x="-37.730000000000004" y="11.98" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FIuZF2IC0c6RJkiDbf_0-1" value="PlayStation" style="rounded=1;align=center;verticalAlign=middle;fillColor=#d0cee2;strokeColor=#56517e;fontSize=9;fontStyle=0;" parent="1" vertex="1">
-          <mxGeometry x="428.9" y="720" width="64" height="30" as="geometry" />
+        <mxCell id="FIuZF2IC0c6RJkiDbf_0-1" value="Driving Console" style="rounded=1;align=center;verticalAlign=middle;fillColor=#d0cee2;strokeColor=#56517e;fontSize=9;fontStyle=0;" parent="1" vertex="1">
+          <mxGeometry x="420" y="720" width="72.9" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FIuZF2IC0c6RJkiDbf_0-3" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;startArrow=none;startFill=0;endArrow=blockThin;endFill=1;strokeWidth=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="tJCZRqBJ2CxmemZXy25r-1" target="FIuZF2IC0c6RJkiDbf_0-1" edge="1">
           <mxGeometry relative="1" as="geometry">

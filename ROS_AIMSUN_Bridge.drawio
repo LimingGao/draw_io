@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-10T05:37:18.462Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="fMsgXanR3ilC1WwSik_S" version="14.5.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-04-10T05:38:46.629Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="sP1bwUFiZWLELXhP6UaN" version="14.5.3" type="github" pages="2">
   <diagram id="g7usEjnd5ee0Ly5ZbJtn" name="Page-1">
     <mxGraphModel dx="779" dy="412" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -246,7 +246,7 @@
         <mxCell id="K6NKCnMjnbAVRSnIbpeF-31" value="Deserialized&#xa;Data&#xa;Streams" style="rounded=1;align=center;verticalAlign=middle;fontSize=9;fontStyle=0;fillColor=none;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="343.11" y="1024.0900000000001" width="54.21" height="38.79" as="geometry" />
         </mxCell>
-        <mxCell id="K6NKCnMjnbAVRSnIbpeF-34" value="AIMSUN: traffic simulator" style="rounded=1;align=center;verticalAlign=top;fontSize=11;fontStyle=0;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;glass=0;" parent="1" vertex="1">
+        <mxCell id="K6NKCnMjnbAVRSnIbpeF-34" value="AIMSUN: traffic simulation" style="rounded=1;align=center;verticalAlign=top;fontSize=11;fontStyle=0;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;glass=0;" parent="1" vertex="1">
           <mxGeometry x="160" y="539.76" width="194.06" height="140.24" as="geometry" />
         </mxCell>
         <mxCell id="K6NKCnMjnbAVRSnIbpeF-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;endArrow=blockThin;endFill=1;startArrow=blockThin;startFill=1;" parent="1" source="K6NKCnMjnbAVRSnIbpeF-37" target="K6NKCnMjnbAVRSnIbpeF-38" edge="1">
@@ -264,7 +264,7 @@
         <mxCell id="K6NKCnMjnbAVRSnIbpeF-39" value="UDP Socket" style="rounded=1;align=center;verticalAlign=middle;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=10;fontStyle=0;" parent="1" vertex="1">
           <mxGeometry x="381.9" y="596.15" width="64.21" height="43.71" as="geometry" />
         </mxCell>
-        <mxCell id="K6NKCnMjnbAVRSnIbpeF-40" value="ROS: external vehicle motion" style="rounded=1;align=center;verticalAlign=top;fontSize=11;fontStyle=0;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;glass=0;" parent="1" vertex="1">
+        <mxCell id="K6NKCnMjnbAVRSnIbpeF-40" value="ROS: on-vehicle simulation" style="rounded=1;align=center;verticalAlign=top;fontSize=11;fontStyle=0;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;glass=0;" parent="1" vertex="1">
           <mxGeometry x="473.9" y="540" width="186.1" height="140" as="geometry" />
         </mxCell>
         <mxCell id="K6NKCnMjnbAVRSnIbpeF-42" value="Data&#xa;Visulization&#xa;(GUI)" style="rounded=1;align=center;verticalAlign=middle;fontSize=10;fontStyle=0;strokeColor=#432D57;fillColor=#E6E6E6;" parent="1" vertex="1">

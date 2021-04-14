@@ -1,5 +1,5 @@
-<mxfile host="app.diagrams.net" modified="2021-04-14T16:53:00.170Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="-BYJ3_2Svk3lC6sFbjZE" version="14.5.3" type="github" pages="2">
-  <diagram id="g7usEjnd5ee0Ly5ZbJtn" name="Page-1">
+<mxfile host="app.diagrams.net" modified="2021-04-14T16:53:50.786Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="S6KYyGGYFUz93BamGXId" version="14.5.3" type="github" pages="3">
+  <diagram id="g7usEjnd5ee0Ly5ZbJtn" name="friction circle">
     <mxGraphModel dx="1016" dy="541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -73,7 +73,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="X77Ue-ZlXGN9faTH996L" name="Page-2">
+  <diagram id="X77Ue-ZlXGN9faTH996L" name="CAV network">
     <mxGraphModel dx="1226" dy="653" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="i4RcE1fr88npL_jNl3nU-0" />
@@ -487,6 +487,14 @@
         <mxCell id="Za7xxilf6f-1Jp0edNZU-106" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.sensor;fillColor=#5294CF;gradientColor=none;strokeColor=#000000;strokeWidth=3;fontSize=10;opacity=70;" vertex="1" parent="i4RcE1fr88npL_jNl3nU-1">
           <mxGeometry x="492.06999999999994" y="594.42" width="18.5" height="17" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="VXKMhtpPrfWjaBHs4lLd" name="bicycle model">
+    <mxGraphModel dx="1778" dy="947" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="LGTIWsO_x1LPyo_i8puS-0" />
+        <mxCell id="LGTIWsO_x1LPyo_i8puS-1" parent="LGTIWsO_x1LPyo_i8puS-0" />
       </root>
     </mxGraphModel>
   </diagram>

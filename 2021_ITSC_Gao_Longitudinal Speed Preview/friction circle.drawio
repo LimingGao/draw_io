@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-14T17:43:40.132Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="jFknChO8iNk59o-wa_pr" version="14.5.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-04-14T17:48:24.026Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="yc0arLjc3ycFwITHsad8" version="14.5.3" type="github" pages="3">
   <diagram id="g7usEjnd5ee0Ly5ZbJtn" name="friction circle">
     <mxGraphModel dx="1778" dy="884" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -491,7 +491,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="VXKMhtpPrfWjaBHs4lLd" name="bicycle model">
-    <mxGraphModel dx="138" dy="69" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="711" dy="354" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="LGTIWsO_x1LPyo_i8puS-0" />
         <mxCell id="LGTIWsO_x1LPyo_i8puS-1" parent="LGTIWsO_x1LPyo_i8puS-0" />
@@ -606,7 +606,7 @@
         </mxCell>
         <mxCell id="NIQn4FDyGwgsC7JU0NGO-8" value="U&lt;sub&gt;x&lt;/sub&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Times New Roman;fontColor=#FF0000;labelBackgroundColor=none;fontStyle=2" vertex="1" connectable="0" parent="NIQn4FDyGwgsC7JU0NGO-7">
           <mxGeometry x="0.65" relative="1" as="geometry">
-            <mxPoint x="-1.9500000000000002" y="23.34" as="offset" />
+            <mxPoint x="15.650000000000002" y="23.34" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NIQn4FDyGwgsC7JU0NGO-21" value="" style="group" vertex="1" connectable="0" parent="LGTIWsO_x1LPyo_i8puS-1">
@@ -765,6 +765,37 @@
         <mxCell id="NIQn4FDyGwgsC7JU0NGO-52" value="δ" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Times New Roman;fontSize=9;labelBackgroundColor=none;rotation=-15;fontStyle=2" vertex="1" connectable="0" parent="LGTIWsO_x1LPyo_i8puS-1">
           <mxGeometry x="672" y="516" as="geometry">
             <mxPoint x="-0.8965754721680539" y="-4.381341395361314" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NIQn4FDyGwgsC7JU0NGO-54" value="CG" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;labelBackgroundColor=none;fontFamily=Times New Roman;fontSize=9;fontColor=#3333FF;" vertex="1" parent="LGTIWsO_x1LPyo_i8puS-1">
+          <mxGeometry x="445" y="496" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NIQn4FDyGwgsC7JU0NGO-55" value="" style="curved=1;endArrow=classicThin;html=1;strokeColor=#000000;fontFamily=Times New Roman;fontColor=#FF0000;endFill=1;endSize=1;" edge="1" parent="LGTIWsO_x1LPyo_i8puS-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="504" y="520" as="sourcePoint" />
+            <mxPoint x="498" y="503" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="505" y="509" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NIQn4FDyGwgsC7JU0NGO-56" value="β" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Times New Roman;fontStyle=2;fontSize=10;" vertex="1" connectable="0" parent="LGTIWsO_x1LPyo_i8puS-1">
+          <mxGeometry x="512.9299029126214" y="508" as="geometry">
+            <mxPoint x="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NIQn4FDyGwgsC7JU0NGO-57" value="" style="curved=1;endArrow=classicThin;html=1;strokeColor=#000000;fontFamily=Times New Roman;fontColor=#FF0000;endFill=1;endSize=1;exitX=0.167;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="LGTIWsO_x1LPyo_i8puS-1" source="NIQn4FDyGwgsC7JU0NGO-54">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="445.0200000000001" y="506.65999999999997" as="sourcePoint" />
+            <mxPoint x="454" y="536" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="439" y="522" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NIQn4FDyGwgsC7JU0NGO-60" value="r" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Times New Roman;fontStyle=2;fontSize=11;" vertex="1" connectable="0" parent="LGTIWsO_x1LPyo_i8puS-1">
+          <mxGeometry x="442.9999029126214" y="528" as="geometry">
+            <mxPoint x="-3" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-14T18:39:43.630Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="yimkhCCWoo4K31yng2Ti" version="14.5.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-04-14T18:39:53.379Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="4R5Sul6MS0iKv-i06w9r" version="14.5.3" type="github" pages="3">
   <diagram id="g7usEjnd5ee0Ly5ZbJtn" name="friction circle">
     <mxGraphModel dx="1778" dy="884" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -74,7 +74,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="X77Ue-ZlXGN9faTH996L" name="CAV network">
-    <mxGraphModel dx="480" dy="237" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="573" dy="283" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="i4RcE1fr88npL_jNl3nU-0" />
         <mxCell id="i4RcE1fr88npL_jNl3nU-1" parent="i4RcE1fr88npL_jNl3nU-0" />
@@ -147,7 +147,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Za7xxilf6f-1Jp0edNZU-102" value="" style="endArrow=blockThin;dashed=1;html=1;fontSize=10;entryX=0.298;entryY=0.972;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classicThin;startFill=0;endFill=0;" parent="Za7xxilf6f-1Jp0edNZU-41" target="Za7xxilf6f-1Jp0edNZU-81" edge="1">
+        <mxCell id="Za7xxilf6f-1Jp0edNZU-102" value="" style="endArrow=blockThin;dashed=1;html=1;fontSize=10;entryX=0.277;entryY=0.999;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classicThin;startFill=0;endFill=0;" parent="Za7xxilf6f-1Jp0edNZU-41" target="Za7xxilf6f-1Jp0edNZU-81" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="115.51000000000002" y="27.460000000000036" as="sourcePoint" />
             <mxPoint x="162.51000000000002" y="-50" as="targetPoint" />

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-14T18:23:52.340Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="9w5ae30oRsbLQOVqsVxE" version="14.5.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-04-14T18:25:23.447Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="QxPq5eMWj3m_pat28ydr" version="14.5.3" type="github" pages="3">
   <diagram id="g7usEjnd5ee0Ly5ZbJtn" name="friction circle">
     <mxGraphModel dx="1778" dy="884" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -74,7 +74,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="X77Ue-ZlXGN9faTH996L" name="CAV network">
-    <mxGraphModel dx="494" dy="246" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="345" dy="172" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="i4RcE1fr88npL_jNl3nU-0" />
         <mxCell id="i4RcE1fr88npL_jNl3nU-1" parent="i4RcE1fr88npL_jNl3nU-0" />
@@ -456,6 +456,12 @@
         <mxCell id="Za7xxilf6f-1Jp0edNZU-90" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;fixedSize=1;fontFamily=Times New Roman;size=14.484405244993809;labelBorderColor=none;fontColor=#ffffff;strokeColor=none;opacity=70;fillColor=#1BA1E2;" parent="Za7xxilf6f-1Jp0edNZU-41" vertex="1">
           <mxGeometry x="219.51" y="41.97" width="111.49" height="12.92" as="geometry" />
         </mxCell>
+        <mxCell id="3lZXArzhTB7uT84aSAc6-0" value="" style="endArrow=blockThin;strokeColor=#FFFFFF;strokeWidth=1;endFill=1;startSize=2;endSize=2;entryX=0.295;entryY=0.458;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="Za7xxilf6f-1Jp0edNZU-41" target="Za7xxilf6f-1Jp0edNZU-43">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="124.50546673691852" y="48.377659939070895" as="sourcePoint" />
+            <mxPoint x="134.23009455777836" y="48.377659939070895" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Za7xxilf6f-1Jp0edNZU-69" value="" style="shape=image;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/isometric-city-basic-transport/480/car-police-front-01-128.png;strokeColor=#FF33FF;strokeWidth=3;fillColor=none;gradientColor=#ffffff;rotation=-30;" parent="i4RcE1fr88npL_jNl3nU-1" vertex="1">
           <mxGeometry x="670" y="570.4" width="38" height="38" as="geometry" />
         </mxCell>
@@ -535,6 +541,12 @@
             <Array as="points">
               <mxPoint x="407.11" y="742.98" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3lZXArzhTB7uT84aSAc6-1" value="" style="endArrow=blockThin;strokeColor=#FFFFFF;strokeWidth=1;endFill=1;startSize=2;endSize=2;entryX=0.286;entryY=0.555;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="i4RcE1fr88npL_jNl3nU-1" target="Za7xxilf6f-1Jp0edNZU-43">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="297" y="708" as="sourcePoint" />
+            <mxPoint x="303.0811658032597" y="711.9875301135282" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>

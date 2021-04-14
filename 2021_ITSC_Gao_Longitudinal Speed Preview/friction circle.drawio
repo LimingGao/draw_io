@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-14T19:05:52.932Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="PAMKO7QWPu2Oa9FrUr-r" version="14.5.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-04-14T19:07:45.540Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="D0ksxmQ0bidKWdMUDgqh" version="14.5.3" type="github" pages="3">
   <diagram id="g7usEjnd5ee0Ly5ZbJtn" name="friction circle">
     <mxGraphModel dx="1778" dy="884" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -557,6 +557,17 @@
         </mxCell>
         <mxCell id="KYlF_QpYy4DrjIpC-7zn-60" value="" style="shape=image;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/isometric-city-basic-transport/480/car-front-02-128.png;strokeColor=#FF33FF;strokeWidth=3;fillColor=none;gradientColor=#ffffff;rotation=0;" vertex="1" parent="KYlF_QpYy4DrjIpC-7zn-28">
           <mxGeometry x="220.51000000000002" y="60.460000000000036" width="32.466453315679715" height="32.466453315679715" as="geometry" />
+        </mxCell>
+        <mxCell id="KYlF_QpYy4DrjIpC-7zn-76" value="" style="endArrow=classicThin;fillColor=#dae8fc;strokeColor=#6666FF;endFill=1;exitX=0.471;exitY=0.836;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="KYlF_QpYy4DrjIpC-7zn-28" source="KYlF_QpYy4DrjIpC-7zn-29">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="152.0500000000001" y="92.93000000000018" as="sourcePoint" />
+            <mxPoint x="212.00000000000003" y="75.46000000000004" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KYlF_QpYy4DrjIpC-7zn-77" value="off-ramp" style="edgeLabel;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=8;fontColor=#6666FF;labelBackgroundColor=none;" vertex="1" connectable="0" parent="KYlF_QpYy4DrjIpC-7zn-76">
+          <mxGeometry x="-0.7544" y="-1" relative="1" as="geometry">
+            <mxPoint x="-6.789999999999997" y="5.85" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="KYlF_QpYy4DrjIpC-7zn-61" value="" style="group;fillColor=#ffffff;" vertex="1" connectable="0" parent="i4RcE1fr88npL_jNl3nU-1">
           <mxGeometry x="328.19" y="664" width="101.70000000000003" height="51.42" as="geometry" />

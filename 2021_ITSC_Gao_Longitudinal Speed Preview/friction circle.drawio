@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-14T18:34:29.061Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="7nfe5MtLw-fFH6YKqFaT" version="14.5.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-04-14T18:35:57.392Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="_UfkVjZusDJrWHR0Ef1D" version="14.5.3" type="github" pages="3">
   <diagram id="g7usEjnd5ee0Ly5ZbJtn" name="friction circle">
     <mxGraphModel dx="1778" dy="884" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -353,6 +353,17 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="297" y="708" as="sourcePoint" />
             <mxPoint x="303.0811658032597" y="711.9875301135282" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KYlF_QpYy4DrjIpC-7zn-10" value="" style="endArrow=classicThin;html=1;entryX=0.821;entryY=0.25;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#dae8fc;strokeColor=#6666FF;endFill=1;" edge="1" parent="i4RcE1fr88npL_jNl3nU-1" target="Za7xxilf6f-1Jp0edNZU-90">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="505" y="670" as="sourcePoint" />
+            <mxPoint x="611" y="658" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KYlF_QpYy4DrjIpC-7zn-11" value="low friction region" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Times New Roman;fontSize=8;fontColor=#6666FF;" vertex="1" connectable="0" parent="KYlF_QpYy4DrjIpC-7zn-10">
+          <mxGeometry x="-0.7544" y="-1" relative="1" as="geometry">
+            <mxPoint x="23.42" y="-8.05" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>

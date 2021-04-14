@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-14T18:40:02.914Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="aNL5_5S-rZBopKldO9S6" version="14.5.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-04-14T18:40:48.261Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="HLI8j5M3gqo0dWcPoXqa" version="14.5.3" type="github" pages="3">
   <diagram id="g7usEjnd5ee0Ly5ZbJtn" name="friction circle">
     <mxGraphModel dx="1778" dy="884" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -74,7 +74,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="X77Ue-ZlXGN9faTH996L" name="CAV network">
-    <mxGraphModel dx="573" dy="283" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="687" dy="339" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="i4RcE1fr88npL_jNl3nU-0" />
         <mxCell id="i4RcE1fr88npL_jNl3nU-1" parent="i4RcE1fr88npL_jNl3nU-0" />
@@ -301,13 +301,13 @@
           <mxGeometry x="316.99999999999994" y="560" width="29.68" height="29.68" as="geometry" />
         </mxCell>
         <mxCell id="Za7xxilf6f-1Jp0edNZU-101" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/line-free/24/Wireless_antenna-128.png;strokeColor=#000000;strokeWidth=3;fillColor=#ffffff;gradientColor=#ffffff;fontSize=10;opacity=70;align=left;" parent="i4RcE1fr88npL_jNl3nU-1" vertex="1">
-          <mxGeometry x="144.52000000000004" y="525.63" width="29.7" height="29.7" as="geometry" />
+          <mxGeometry x="467.22" y="450.71" width="29.7" height="29.7" as="geometry" />
         </mxCell>
         <mxCell id="Za7xxilf6f-1Jp0edNZU-99" value="" style="rounded=1;align=center;verticalAlign=middle;fontSize=9;fontStyle=0;strokeColor=#666666;fontColor=#333333;fillColor=none;" parent="i4RcE1fr88npL_jNl3nU-1" vertex="1">
-          <mxGeometry x="78.3" y="514.77" width="101.7" height="51.42" as="geometry" />
+          <mxGeometry x="401" y="439.84999999999997" width="101.7" height="51.42" as="geometry" />
         </mxCell>
         <mxCell id="Za7xxilf6f-1Jp0edNZU-98" value="Base &#xa;Station" style="text;resizable=0;autosize=1;align=left;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=10;" parent="i4RcE1fr88npL_jNl3nU-1" vertex="1">
-          <mxGeometry x="84.52080629301865" y="514.7723522822738" width="50" height="30" as="geometry" />
+          <mxGeometry x="407.22080629301865" y="439.8523522822738" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Za7xxilf6f-1Jp0edNZU-103" value="" style="endArrow=blockThin;dashed=1;html=1;fontSize=10;entryX=0.562;entryY=1.003;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.642;exitY=-0.031;exitDx=0;exitDy=0;exitPerimeter=0;startArrow=blockThin;startFill=0;endFill=0;" parent="i4RcE1fr88npL_jNl3nU-1" source="Za7xxilf6f-1Jp0edNZU-40" target="Za7xxilf6f-1Jp0edNZU-81" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -368,6 +368,9 @@
             <mxPoint x="375.2697408217665" y="700.3154708662587" as="sourcePoint" />
             <mxPoint x="356.2768000000001" y="648.5458600000001" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="KYlF_QpYy4DrjIpC-7zn-18" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/computer-hardware-hand-drawn-vol-1/52/signal__device__technology__radar__satellite__antenna__tower-128.png;fillColor=#99CCFF;fontFamily=Times New Roman;fontSize=8;fontColor=#6666FF;" vertex="1" parent="i4RcE1fr88npL_jNl3nU-1">
+          <mxGeometry x="766" y="566.19" width="23" height="23" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

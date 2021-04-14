@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-14T18:32:16.504Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="M2CcoGgfGOx0HAHwzU6G" version="14.5.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-04-14T18:34:04.596Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="X37WW4CzAcu9hCjQBn8G" version="14.5.3" type="github" pages="3">
   <diagram id="g7usEjnd5ee0Ly5ZbJtn" name="friction circle">
     <mxGraphModel dx="1778" dy="884" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -74,7 +74,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="X77Ue-ZlXGN9faTH996L" name="CAV network">
-    <mxGraphModel dx="277" dy="137" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="400" dy="197" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="i4RcE1fr88npL_jNl3nU-0" />
         <mxCell id="i4RcE1fr88npL_jNl3nU-1" parent="i4RcE1fr88npL_jNl3nU-0" />
@@ -147,15 +147,6 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Za7xxilf6f-1Jp0edNZU-92" value="" style="group;" parent="Za7xxilf6f-1Jp0edNZU-41" vertex="1" connectable="0">
-          <mxGeometry x="195.51235436120513" y="-59.54000000000012" width="57.605291277589686" height="58.39764563879487" as="geometry" />
-        </mxCell>
-        <mxCell id="Za7xxilf6f-1Jp0edNZU-86" value="" style="shape=image;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/computer-hardware-line-vol-2/52/signal__device__technology__radar__satellite__antenna__tower-128.png;strokeColor=#FF33FF;strokeWidth=3;fillColor=none;gradientColor=#ffffff;" parent="Za7xxilf6f-1Jp0edNZU-92" vertex="1">
-          <mxGeometry x="15" y="8.7" width="22.3" height="22.3" as="geometry" />
-        </mxCell>
-        <mxCell id="Za7xxilf6f-1Jp0edNZU-40" value="" style="shape=image;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/isometric-city-basic-transport/480/car-taxi-front-01-128.png;strokeColor=#FF33FF;strokeWidth=3;fillColor=none;gradientColor=#ffffff;rotation=-30;" parent="Za7xxilf6f-1Jp0edNZU-92" vertex="1">
-          <mxGeometry x="7.71764563879492" y="8.509999999999991" width="42.17" height="42.17" as="geometry" />
-        </mxCell>
         <mxCell id="Za7xxilf6f-1Jp0edNZU-102" value="" style="endArrow=block;dashed=1;html=1;fontSize=10;entryX=0.298;entryY=0.972;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=block;startFill=0;endFill=0;" parent="Za7xxilf6f-1Jp0edNZU-41" target="Za7xxilf6f-1Jp0edNZU-81" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="112.51000000000002" as="sourcePoint" />
@@ -217,8 +208,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Za7xxilf6f-1Jp0edNZU-90" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;fixedSize=1;fontFamily=Times New Roman;size=14.484405244993809;labelBorderColor=none;fontColor=#ffffff;strokeColor=none;opacity=70;fillColor=#99CCFF;" parent="Za7xxilf6f-1Jp0edNZU-41" vertex="1">
-          <mxGeometry x="219.51" y="41.97" width="111.49" height="12.92" as="geometry" />
+        <mxCell id="Za7xxilf6f-1Jp0edNZU-90" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;fixedSize=1;fontFamily=Times New Roman;size=30.669902912621296;labelBorderColor=none;fontColor=#ffffff;strokeColor=none;opacity=70;fillColor=#99CCFF;" parent="Za7xxilf6f-1Jp0edNZU-41" vertex="1">
+          <mxGeometry x="201.51" y="26.5" width="131.49" height="27.89" as="geometry" />
         </mxCell>
         <mxCell id="3lZXArzhTB7uT84aSAc6-0" value="" style="endArrow=blockThin;strokeColor=#FFFFFF;strokeWidth=1;endFill=1;startSize=2;endSize=2;entryX=0.295;entryY=0.458;entryDx=0;entryDy=0;entryPerimeter=0;" parent="Za7xxilf6f-1Jp0edNZU-41" target="Za7xxilf6f-1Jp0edNZU-43" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -254,6 +245,30 @@
         </mxCell>
         <mxCell id="Za7xxilf6f-1Jp0edNZU-88" value="" style="shape=image;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/isometric-city-basic-transport/480/car-front-02-128.png;strokeColor=#FF33FF;strokeWidth=3;fillColor=none;gradientColor=#ffffff;rotation=0;" parent="Za7xxilf6f-1Jp0edNZU-89" vertex="1">
           <mxGeometry x="12" y="3" width="32.466453315679715" height="32.466453315679715" as="geometry" />
+        </mxCell>
+        <mxCell id="KYlF_QpYy4DrjIpC-7zn-5" value="" style="shape=image;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/computer-hardware-cute-style-vol-2/52/signal__device__technology__radar__satellite__antenna__tower-128.png;strokeColor=#FF33FF;strokeWidth=3;fillColor=none;gradientColor=#ffffff;rotation=0;" vertex="1" parent="Za7xxilf6f-1Jp0edNZU-41">
+          <mxGeometry x="105.30000000000001" y="28.460000000000036" width="15.889088967575413" height="15.889088967575413" as="geometry" />
+        </mxCell>
+        <mxCell id="KYlF_QpYy4DrjIpC-7zn-6" value="" style="shape=image;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/isometric-city-basic-transport/480/car-front-02-128.png;strokeColor=#FF33FF;strokeWidth=3;fillColor=none;gradientColor=#ffffff;rotation=-30;" vertex="1" parent="Za7xxilf6f-1Jp0edNZU-41">
+          <mxGeometry x="98.51000000000002" y="31.460000000000036" width="29.47" height="29.47" as="geometry" />
+        </mxCell>
+        <mxCell id="KYlF_QpYy4DrjIpC-7zn-7" value="" style="group;" vertex="1" connectable="0" parent="Za7xxilf6f-1Jp0edNZU-41">
+          <mxGeometry x="268.51" y="24.730000000000018" width="41.12" height="47.86" as="geometry" />
+        </mxCell>
+        <mxCell id="KYlF_QpYy4DrjIpC-7zn-8" value="" style="shape=image;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/computer-hardware-line-vol-2/52/signal__device__technology__radar__satellite__antenna__tower-128.png;strokeColor=#FF33FF;strokeWidth=3;fillColor=none;gradientColor=#ffffff;" vertex="1" parent="KYlF_QpYy4DrjIpC-7zn-7">
+          <mxGeometry x="10.707349729866829" y="7.130116213510293" width="15.918259931735355" height="15.918259931735355" as="geometry" />
+        </mxCell>
+        <mxCell id="KYlF_QpYy4DrjIpC-7zn-9" value="" style="shape=image;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/isometric-city-basic-transport/480/car-taxi-front-01-128.png;strokeColor=#FF33FF;strokeWidth=3;fillColor=none;gradientColor=#ffffff;rotation=-30;" vertex="1" parent="KYlF_QpYy4DrjIpC-7zn-7">
+          <mxGeometry x="5.509035396383914" y="6.9744010318359235" width="30.10192920723228" height="30.10192920723228" as="geometry" />
+        </mxCell>
+        <mxCell id="Za7xxilf6f-1Jp0edNZU-92" value="" style="group;" parent="Za7xxilf6f-1Jp0edNZU-41" vertex="1" connectable="0">
+          <mxGeometry x="181.51" y="24.730000000000004" width="41.12" height="47.86" as="geometry" />
+        </mxCell>
+        <mxCell id="Za7xxilf6f-1Jp0edNZU-86" value="" style="shape=image;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/computer-hardware-line-vol-2/52/signal__device__technology__radar__satellite__antenna__tower-128.png;strokeColor=#FF33FF;strokeWidth=3;fillColor=none;gradientColor=#ffffff;" parent="Za7xxilf6f-1Jp0edNZU-92" vertex="1">
+          <mxGeometry x="10.707349729866829" y="7.130116213510293" width="15.918259931735355" height="15.918259931735355" as="geometry" />
+        </mxCell>
+        <mxCell id="Za7xxilf6f-1Jp0edNZU-40" value="" style="shape=image;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/isometric-city-basic-transport/480/car-taxi-front-01-128.png;strokeColor=#FF33FF;strokeWidth=3;fillColor=none;gradientColor=#ffffff;rotation=-30;" parent="Za7xxilf6f-1Jp0edNZU-92" vertex="1">
+          <mxGeometry x="5.509035396383914" y="6.9744010318359235" width="30.10192920723228" height="30.10192920723228" as="geometry" />
         </mxCell>
         <mxCell id="Za7xxilf6f-1Jp0edNZU-69" value="" style="shape=image;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/isometric-city-basic-transport/480/car-police-front-01-128.png;strokeColor=#FF33FF;strokeWidth=3;fillColor=none;gradientColor=#ffffff;rotation=-30;" parent="i4RcE1fr88npL_jNl3nU-1" vertex="1">
           <mxGeometry x="670" y="570.4" width="38" height="38" as="geometry" />

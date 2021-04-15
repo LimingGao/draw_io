@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-15T03:25:29.906Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="6Jf0Se46bHZ5AWx5UT1M" version="14.5.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-04-15T03:26:46.489Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="6GdTpEobm9_OBjzh5Hmw" version="14.5.3" type="github" pages="3">
   <diagram id="g7usEjnd5ee0Ly5ZbJtn" name="friction circle">
     <mxGraphModel dx="1778" dy="884" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -146,17 +146,6 @@
         </mxCell>
         <mxCell id="Za7xxilf6f-1Jp0edNZU-106" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;shape=mxgraph.aws3.sensor;fillColor=#5294CF;gradientColor=none;strokeColor=#000000;strokeWidth=3;fontSize=10;opacity=70;" parent="i4RcE1fr88npL_jNl3nU-1" vertex="1">
           <mxGeometry x="572.77" y="415.69" width="18.5" height="17" as="geometry" />
-        </mxCell>
-        <mxCell id="KYlF_QpYy4DrjIpC-7zn-10" value="" style="endArrow=classicThin;entryX=0.466;entryY=0.622;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#dae8fc;strokeColor=#6666FF;endFill=1;exitX=0.332;exitY=0.816;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="i4RcE1fr88npL_jNl3nU-1" source="KYlF_QpYy4DrjIpC-7zn-132" target="KYlF_QpYy4DrjIpC-7zn-132">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="365.28999999999996" y="545.61" as="sourcePoint" />
-            <mxPoint x="336" y="573.1324999999999" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="KYlF_QpYy4DrjIpC-7zn-11" value="low friction region(e.g. snow)" style="edgeLabel;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=8;labelBackgroundColor=none;fontColor=#1BA1E2;" vertex="1" connectable="0" parent="KYlF_QpYy4DrjIpC-7zn-10">
-          <mxGeometry x="-0.7544" y="-1" relative="1" as="geometry">
-            <mxPoint x="-34.239999999999995" y="5.94" as="offset" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="KYlF_QpYy4DrjIpC-7zn-17" value="" style="endArrow=blockThin;dashed=1;fontSize=10;entryX=0.611;entryY=0.99;entryDx=0;entryDy=0;startArrow=blockThin;startFill=0;endFill=0;exitX=0.684;exitY=0.031;exitDx=0;exitDy=0;exitPerimeter=0;entryPerimeter=0;" edge="1" parent="i4RcE1fr88npL_jNl3nU-1" source="KYlF_QpYy4DrjIpC-7zn-140" target="Za7xxilf6f-1Jp0edNZU-81">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -676,6 +665,12 @@
           <mxGeometry x="-0.7544" y="-1" relative="1" as="geometry">
             <mxPoint x="-8.429999999999998" y="2.8899999999999997" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="KYlF_QpYy4DrjIpC-7zn-150" value="low friction region(e.g. snow)" style="edgeLabel;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=8;labelBackgroundColor=none;fontColor=#1BA1E2;" vertex="1" connectable="0" parent="i4RcE1fr88npL_jNl3nU-1">
+          <mxGeometry x="445.32066210470447" y="562.0012238061508" as="geometry" />
+        </mxCell>
+        <mxCell id="KYlF_QpYy4DrjIpC-7zn-151" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;fixedSize=1;fontFamily=Times New Roman;size=16.044270098286347;labelBorderColor=none;fontColor=#ffffff;strokeColor=none;opacity=70;fillColor=#1BA1E2;" vertex="1" parent="i4RcE1fr88npL_jNl3nU-1">
+          <mxGeometry x="343.68" y="555.31" width="46.49" height="13.39" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-15T02:15:55.486Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="u8kNkJ5QQaaLUwcb1frD" version="14.5.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-04-15T02:18:40.625Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="WWVn3xcGyFFpmNiM6NUG" version="14.5.3" type="github" pages="3">
   <diagram id="g7usEjnd5ee0Ly5ZbJtn" name="friction circle">
     <mxGraphModel dx="1778" dy="884" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -74,7 +74,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="X77Ue-ZlXGN9faTH996L" name="CAV network">
-    <mxGraphModel dx="333" dy="164" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="220" dy="112" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="i4RcE1fr88npL_jNl3nU-0" />
         <mxCell id="i4RcE1fr88npL_jNl3nU-1" parent="i4RcE1fr88npL_jNl3nU-0" />
@@ -229,8 +229,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Za7xxilf6f-1Jp0edNZU-90" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;fixedSize=1;fontFamily=Times New Roman;size=57.33466019417472;labelBorderColor=none;fontColor=#ffffff;strokeColor=none;opacity=70;fillColor=#1BA1E2;" parent="Za7xxilf6f-1Jp0edNZU-41" vertex="1">
-          <mxGeometry x="161.71" y="28.040000000000006" width="200" height="48.5" as="geometry" />
+        <mxCell id="Za7xxilf6f-1Jp0edNZU-90" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;fixedSize=1;fontFamily=Times New Roman;size=54.86185019216225;labelBorderColor=none;fontColor=#ffffff;strokeColor=none;opacity=70;fillColor=#1BA1E2;" parent="Za7xxilf6f-1Jp0edNZU-41" vertex="1">
+          <mxGeometry x="160.71" y="28.040000000000006" width="200" height="48.5" as="geometry" />
         </mxCell>
         <mxCell id="Za7xxilf6f-1Jp0edNZU-48" value="" style="endArrow=none;strokeColor=#FFFFFF;strokeWidth=3;curved=1;endFill=0;entryX=0.615;entryY=0.991;entryDx=0;entryDy=0;entryPerimeter=0;" parent="Za7xxilf6f-1Jp0edNZU-41" target="Za7xxilf6f-1Jp0edNZU-42" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -266,6 +266,15 @@
         </mxCell>
         <mxCell id="Za7xxilf6f-1Jp0edNZU-40" value="" style="shape=image;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/isometric-city-basic-transport/480/car-taxi-front-01-128.png;strokeColor=#FF33FF;strokeWidth=3;fillColor=none;gradientColor=#ffffff;rotation=-30;" parent="Za7xxilf6f-1Jp0edNZU-92" vertex="1">
           <mxGeometry x="5.509035396383914" y="6.9744010318359235" width="30.10192920723228" height="30.10192920723228" as="geometry" />
+        </mxCell>
+        <mxCell id="KYlF_QpYy4DrjIpC-7zn-82" value="" style="endArrow=none;strokeWidth=5;entryX=0.611;entryY=1.006;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.491;exitY=0.941;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#1BA1E2;" edge="1" parent="Za7xxilf6f-1Jp0edNZU-41">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="236.61440190662313" y="116.4618894742481" as="sourcePoint" />
+            <mxPoint x="268.5060000000001" y="140.3044400000001" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="258.61" y="126.44000000000005" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="Za7xxilf6f-1Jp0edNZU-95" value="" style="rounded=1;align=center;verticalAlign=middle;fontSize=9;fontStyle=0;strokeColor=#666666;fontColor=#333333;fillColor=#f5f5f5;" parent="i4RcE1fr88npL_jNl3nU-1" vertex="1">
           <mxGeometry x="458.46" y="399.19000000000005" width="101.7" height="46.81" as="geometry" />

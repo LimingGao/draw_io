@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-04-27T18:36:54.024Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="4Yx_bU2QnQNlywvkJ_iT" version="14.6.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-04-27T18:37:28.155Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="GEWJCDBLJSVspSmRXCJw" version="14.6.1" type="github" pages="2">
   <diagram id="g7usEjnd5ee0Ly5ZbJtn" name="Page-1">
-    <mxGraphModel dx="886" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1292" dy="697" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1063,10 +1063,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="GBbAQe1-XjNDRKQaChQB-22" value="" style="rounded=1;fillColor=#E0F4FF;labelBackgroundColor=#ffffff;arcSize=8;" vertex="1" parent="1">
-          <mxGeometry x="901.9300000000001" y="394.49" width="470" height="189" as="geometry" />
+          <mxGeometry x="901.93" y="394.49" width="470" height="245.51" as="geometry" />
         </mxCell>
         <mxCell id="GBbAQe1-XjNDRKQaChQB-51" value="Vehicle&#xa;Controller" style="rounded=1;align=center;verticalAlign=middle;fontSize=12;fontStyle=0;fillColor=#F8CBAD;strokeColor=#578EC0;arcSize=10;" vertex="1" parent="1">
-          <mxGeometry x="993.98" y="427.95" width="60" height="92.05" as="geometry" />
+          <mxGeometry x="945.98" y="427.95" width="60" height="92.05" as="geometry" />
+        </mxCell>
+        <mxCell id="GBbAQe1-XjNDRKQaChQB-52" value="Chassis&#xa;Dynamics" style="rounded=1;align=center;verticalAlign=middle;fontSize=12;fontStyle=0;strokeColor=#578EC0;fillColor=#C5E0B4;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="463.49" width="74.14" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="GBbAQe1-XjNDRKQaChQB-53" value="Friction &#xa;Estimator" style="rounded=1;align=center;verticalAlign=middle;fontSize=12;fontStyle=0;fillColor=#92D050;strokeColor=#5890C3;" vertex="1" parent="1">
+          <mxGeometry x="1257.15" y="463.49" width="72" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

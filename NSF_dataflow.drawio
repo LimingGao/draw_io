@@ -1,13 +1,19 @@
-<mxfile host="app.diagrams.net" modified="2021-04-27T21:01:38.917Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="2BHjGqwiNk8GAzvTVfYm" version="14.6.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-04-27T21:05:37.976Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="bQ6uenuDUM_D9ZZ2GIg9" version="14.6.1" type="github" pages="2">
   <diagram id="g7usEjnd5ee0Ly5ZbJtn" name="Page-1">
-    <mxGraphModel dx="3950" dy="1672" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3064" dy="1194" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="EPciwlCAxLOxW23dukJo-38" value="" style="rounded=1;fillColor=#f5f5f5;labelBackgroundColor=#ffffff;arcSize=8;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+        <mxCell id="EPciwlCAxLOxW23dukJo-44" value="" style="rounded=1;fillColor=#ffe6cc;labelBackgroundColor=#ffffff;arcSize=8;strokeColor=#d79b00;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1880.79" y="221.1" width="1149.21" height="1008.9" as="geometry" />
+        </mxCell>
+        <mxCell id="EPciwlCAxLOxW23dukJo-45" value="" style="rounded=1;fillColor=#e1d5e7;labelBackgroundColor=#ffffff;arcSize=8;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="2205.1" y="450" width="694.9" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="EPciwlCAxLOxW23dukJo-38" value="" style="rounded=1;fillColor=#dae8fc;labelBackgroundColor=#ffffff;arcSize=8;strokeColor=#6c8ebf;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="1110" y="221.1" width="723.93" height="1000" as="geometry" />
         </mxCell>
-        <mxCell id="EPciwlCAxLOxW23dukJo-34" value="" style="rounded=1;fillColor=#f5f5f5;labelBackgroundColor=#ffffff;arcSize=8;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+        <mxCell id="EPciwlCAxLOxW23dukJo-34" value="" style="rounded=1;fillColor=#f5f5f5;labelBackgroundColor=#ffffff;arcSize=8;strokeColor=#666666;fontColor=#333333;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="-10.69" y="221.1" width="1065" height="998.9" as="geometry" />
         </mxCell>
         <mxCell id="kuxUDI9ris-chH6kOZA5-78" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;startArrow=none;startFill=0;endArrow=classicThin;endFill=1;fontSize=7;dashed=1;" parent="1" source="kuxUDI9ris-chH6kOZA5-68" target="kuxUDI9ris-chH6kOZA5-31" edge="1">
@@ -552,11 +558,6 @@
         <UserObject label="SUPER-MODEL&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;" lucidchartObjectId="_q3sCnzLqKI8" id="NW8IP-rn-EwmyOUBby27-2">
           <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;;whiteSpace=wrap;fontSize=13;fontColor=#000000;align=center;spacing=9;strokeColor=#333333;strokeOpacity=100;fillOpacity=100;fillColor=#ffdba9;strokeWidth=0.8;" parent="1" vertex="1">
             <mxGeometry x="2721.07" y="481.1" width="150" height="251" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="" lucidchartObjectId="_q3sPpd2y.PH" id="NW8IP-rn-EwmyOUBby27-3">
-          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;container=1;collapsible=0;whiteSpace=wrap;fontSize=13;spacing=0;strokeColor=#333333;strokeOpacity=100;fillOpacity=19;fillColor=#fcc438;dashed=1;fixDash=1;dashPattern=16 6;strokeWidth=0.8;" parent="1" vertex="1">
-            <mxGeometry x="2211.07" y="451.1" width="705" height="480" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Communications Interface/&#xa;Protocol" lucidchartObjectId="_q3sdJaIwXV-" id="NW8IP-rn-EwmyOUBby27-4">
@@ -2033,6 +2034,9 @@
         </mxCell>
         <mxCell id="EPciwlCAxLOxW23dukJo-39" value="Vehicle i moving on road context cp&amp;nbsp;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;labelBackgroundColor=none;fontSize=28;fontColor=#0000FF;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1110" y="160.00000000000006" width="500" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EPciwlCAxLOxW23dukJo-46" value="&lt;span style=&quot;color: rgb(0 , 0 , 255) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 28px ; font-style: normal ; font-weight: 700 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;DATABASE-AS-A-SENSOR&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=28;" vertex="1" parent="1">
+          <mxGeometry x="1881.07" y="150" width="510" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

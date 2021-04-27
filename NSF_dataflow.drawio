@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-27T19:15:09.488Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="f9UV6X6VYK-vCK1fU-fo" version="14.6.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-04-27T19:15:37.828Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="g6iXkKXtpvEcmXudVery" version="14.6.1" type="github" pages="2">
   <diagram id="g7usEjnd5ee0Ly5ZbJtn" name="Page-1">
     <mxGraphModel dx="1069" dy="577" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1077,7 +1077,7 @@
         </mxCell>
         <mxCell id="_u7RzBxuJXRDmLX1nk55-8" value="vehicle&lt;br&gt;states" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=10;fontColor=#000000;labelBackgroundColor=none;" vertex="1" connectable="0" parent="GBbAQe1-XjNDRKQaChQB-90">
           <mxGeometry x="0.6539" y="-1" relative="1" as="geometry">
-            <mxPoint x="-22" y="-16" as="offset" />
+            <mxPoint x="-42" y="-16" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GBbAQe1-XjNDRKQaChQB-52" value="Chassis&#xa;Dynamics" style="rounded=1;align=center;verticalAlign=middle;fontSize=12;fontStyle=0;" vertex="1" parent="1">
@@ -1166,16 +1166,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="_u7RzBxuJXRDmLX1nk55-7" value="true friction" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=10;fontColor=#000000;" vertex="1" connectable="0" parent="GBbAQe1-XjNDRKQaChQB-85">
+        <mxCell id="_u7RzBxuJXRDmLX1nk55-7" value="road-tire true friction" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=10;fontColor=#000000;" vertex="1" connectable="0" parent="GBbAQe1-XjNDRKQaChQB-85">
           <mxGeometry x="0.0179" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-67" y="-8" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GBbAQe1-XjNDRKQaChQB-91" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;fontColor=#000000;startArrow=none;startFill=0;endArrow=blockThin;endFill=1;" edge="1" parent="1" source="GBbAQe1-XjNDRKQaChQB-89" target="GBbAQe1-XjNDRKQaChQB-53">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GBbAQe1-XjNDRKQaChQB-89" value="Sensor" style="rounded=1;labelBackgroundColor=none;fontSize=12;fontColor=#000000;align=center;fontStyle=0;fillColor=#E2E1E1;strokeColor=#517DA4;" vertex="1" parent="1">
-          <mxGeometry x="1480" y="489.62" width="71" height="33" as="geometry" />
+          <mxGeometry x="1500" y="489.62" width="71" height="33" as="geometry" />
         </mxCell>
         <mxCell id="GBbAQe1-XjNDRKQaChQB-94" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=9;endArrow=classicThin;endFill=1;exitX=0.991;exitY=0.508;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.01;entryY=0.253;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="GBbAQe1-XjNDRKQaChQB-53" target="NW8IP-rn-EwmyOUBby27-4">
           <mxGeometry relative="1" as="geometry">

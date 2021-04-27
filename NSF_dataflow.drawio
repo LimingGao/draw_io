@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-04-27T21:30:08.075Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="qnvT9gJByumnZavuvLGo" version="14.6.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-04-27T21:32:10.988Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="xLZJDM19AAQxTSjQjVG-" version="14.6.1" type="github" pages="2">
   <diagram id="g7usEjnd5ee0Ly5ZbJtn" name="Page-1">
-    <mxGraphModel dx="4725" dy="2090" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3433" dy="1393" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2123,6 +2123,18 @@
               <mxPoint x="1930" y="612" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="EPciwlCAxLOxW23dukJo-74" value="" style="shape=mxgraph.signs.food.food_truck;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;dashed=1;labelBackgroundColor=none;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="1361" y="1350" width="98" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EPciwlCAxLOxW23dukJo-75" value="" style="shape=mxgraph.signs.transportation.truck_4;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;dashed=1;labelBackgroundColor=none;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="1530" y="1340" width="148.81" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EPciwlCAxLOxW23dukJo-76" value="" style="shape=mxgraph.signs.transportation.truck_1;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;dashed=1;labelBackgroundColor=none;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="1340" width="137" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EPciwlCAxLOxW23dukJo-77" value="" style="shape=mxgraph.signs.transportation.car_3;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;dashed=1;labelBackgroundColor=none;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="860" y="1340" width="99" height="38" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

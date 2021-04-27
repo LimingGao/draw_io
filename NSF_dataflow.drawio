@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-04-27T19:40:51.418Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="XPUdQiQ2FrmfHdlhvM2Y" version="14.6.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-04-27T19:42:49.651Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="aV9QqWq7xGErpqmFZJJV" version="14.6.1" type="github" pages="2">
   <diagram id="g7usEjnd5ee0Ly5ZbJtn" name="Page-1">
-    <mxGraphModel dx="4429" dy="2389" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="886" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -772,7 +772,7 @@
         </mxCell>
         <mxCell id="GBbAQe1-XjNDRKQaChQB-88" value="control&lt;br style=&quot;font-size: 10px;&quot;&gt;command" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=10;labelBackgroundColor=none;" vertex="1" connectable="0" parent="GBbAQe1-XjNDRKQaChQB-86">
           <mxGeometry x="-0.2159" y="1" relative="1" as="geometry">
-            <mxPoint x="9" y="-15" as="offset" />
+            <mxPoint x="4" y="-15" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GBbAQe1-XjNDRKQaChQB-51" value="Vehicle&#xa;Controller" style="rounded=1;align=center;verticalAlign=middle;fontSize=12;fontStyle=0;fillColor=#d5e8d4;strokeColor=#82b366;arcSize=10;" vertex="1" parent="1">
@@ -791,8 +791,8 @@
             <mxPoint x="-42" y="-16" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GBbAQe1-XjNDRKQaChQB-52" value="Chassis&#xa;Dynamics" style="rounded=1;align=center;verticalAlign=middle;fontSize=12;fontStyle=0;" vertex="1" parent="1">
-          <mxGeometry x="1330" y="472.4" width="89.91" height="67.44" as="geometry" />
+        <mxCell id="GBbAQe1-XjNDRKQaChQB-52" value="Chassis Dynamics" style="rounded=1;align=center;verticalAlign=top;fontSize=12;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="1300.65" y="467.23999999999995" width="119.91" height="77.6" as="geometry" />
         </mxCell>
         <mxCell id="GBbAQe1-XjNDRKQaChQB-53" value="Friction &#xa;Estimator" style="rounded=1;align=center;verticalAlign=middle;fontSize=12;fontStyle=0;" vertex="1" parent="1">
           <mxGeometry x="1607" y="472.24" width="92.76" height="67.6" as="geometry" />

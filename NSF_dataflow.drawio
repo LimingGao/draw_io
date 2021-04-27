@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-04-27T21:06:00.195Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="TQhrjl9kGUFkQosXwbTa" version="14.6.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-04-27T21:12:07.637Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="f5tTSewtNdIcHNFiffCC" version="14.6.1" type="github" pages="2">
   <diagram id="g7usEjnd5ee0Ly5ZbJtn" name="Page-1">
-    <mxGraphModel dx="3064" dy="1194" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="5279" dy="2389" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -893,7 +893,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="_u7RzBxuJXRDmLX1nk55-7" value="road-tire true friction and road geometry" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=10;fontColor=#000000;" parent="GBbAQe1-XjNDRKQaChQB-85" vertex="1" connectable="0">
+        <mxCell id="_u7RzBxuJXRDmLX1nk55-7" value="road-tire true friction and road geometry" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=10;fontColor=#000000;labelBackgroundColor=none;" parent="GBbAQe1-XjNDRKQaChQB-85" vertex="1" connectable="0">
           <mxGeometry x="0.0179" y="1" relative="1" as="geometry">
             <mxPoint x="-67" y="-8" as="offset" />
           </mxGeometry>
@@ -950,7 +950,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="_u7RzBxuJXRDmLX1nk55-12" value="road information query" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=10;fontColor=#000000;" parent="_u7RzBxuJXRDmLX1nk55-9" vertex="1" connectable="0">
+        <mxCell id="_u7RzBxuJXRDmLX1nk55-12" value="road information query" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=10;fontColor=#000000;labelBackgroundColor=none;" parent="_u7RzBxuJXRDmLX1nk55-9" vertex="1" connectable="0">
           <mxGeometry x="-0.7749" y="-2" relative="1" as="geometry">
             <mxPoint x="166" y="-10" as="offset" />
           </mxGeometry>
@@ -2037,6 +2037,18 @@
         </mxCell>
         <mxCell id="EPciwlCAxLOxW23dukJo-46" value="&lt;span style=&quot;color: rgb(0 , 0 , 255) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 28px ; font-style: normal ; font-weight: 700 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;DATABASE-AS-A-SENSOR&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=28;" vertex="1" parent="1">
           <mxGeometry x="1881.07" y="150" width="510" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EPciwlCAxLOxW23dukJo-48" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/the-weather-is-nice-today/64/weather_2-128.png;dashed=1;fontSize=28;" vertex="1" parent="1">
+          <mxGeometry x="289.18" y="680" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="EPciwlCAxLOxW23dukJo-49" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/spring-2-1/30/Rain-128.png;dashed=1;fontSize=28;" vertex="1" parent="1">
+          <mxGeometry x="519.21" y="680" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="EPciwlCAxLOxW23dukJo-51" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/weather-line-19/32/Light_Snow-128.png;dashed=1;fontSize=28;" vertex="1" parent="1">
+          <mxGeometry x="-330" y="1280" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="EPciwlCAxLOxW23dukJo-52" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/the-weather-is-nice-today/64/weather_3-128.png;dashed=1;fontSize=28;" vertex="1" parent="1">
+          <mxGeometry x="66" y="666.0999999999999" width="128" height="128" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-27T21:05:37.976Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="bQ6uenuDUM_D9ZZ2GIg9" version="14.6.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-04-27T21:05:54.145Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="JYnTUm0qUXl3qxuUpPBe" version="14.6.1" type="github" pages="2">
   <diagram id="g7usEjnd5ee0Ly5ZbJtn" name="Page-1">
     <mxGraphModel dx="3064" dy="1194" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -2032,11 +2032,14 @@
         <mxCell id="EPciwlCAxLOxW23dukJo-37" value="Vehicle trajectories in traffic scenarios and true road contexts" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;labelBackgroundColor=none;fontSize=28;fontColor=#0000FF;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-30" y="160.00000000000006" width="840" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="EPciwlCAxLOxW23dukJo-39" value="Vehicle i moving on road context cp&amp;nbsp;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;labelBackgroundColor=none;fontSize=28;fontColor=#0000FF;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1110" y="160.00000000000006" width="500" height="40" as="geometry" />
+        <mxCell id="EPciwlCAxLOxW23dukJo-39" value="Vehicle i moving on road context cp (CAVs)" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;labelBackgroundColor=none;fontSize=28;fontColor=#0000FF;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1065" y="160.00000000000006" width="590" height="40" as="geometry" />
         </mxCell>
         <mxCell id="EPciwlCAxLOxW23dukJo-46" value="&lt;span style=&quot;color: rgb(0 , 0 , 255) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 28px ; font-style: normal ; font-weight: 700 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;DATABASE-AS-A-SENSOR&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=28;" vertex="1" parent="1">
           <mxGeometry x="1881.07" y="150" width="510" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EPciwlCAxLOxW23dukJo-47" value="Vehicle i moving on road context cp (CAVs)" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;labelBackgroundColor=none;fontSize=28;fontColor=#0000FF;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1110" y="160.00000000000006" width="590" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

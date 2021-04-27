@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-27T19:11:56.021Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="2OZUQe6vj0otddDGvTl4" version="14.6.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-04-27T19:12:20.843Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="MhddqTzJgdp9PrM-7lHa" version="14.6.1" type="github" pages="2">
   <diagram id="g7usEjnd5ee0Ly5ZbJtn" name="Page-1">
     <mxGraphModel dx="1292" dy="697" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1064,16 +1064,16 @@
             <mxPoint x="9" y="-15" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GBbAQe1-XjNDRKQaChQB-51" value="Vehicle&#xa;Controller" style="rounded=1;align=center;verticalAlign=middle;fontSize=12;fontStyle=0;fillColor=#F8CBAD;strokeColor=#578EC0;arcSize=10;" vertex="1" parent="1">
+        <mxCell id="GBbAQe1-XjNDRKQaChQB-51" value="Vehicle&#xa;Controller" style="rounded=1;align=center;verticalAlign=middle;fontSize=12;fontStyle=0;fillColor=#d5e8d4;strokeColor=#82b366;arcSize=10;" vertex="1" parent="1">
           <mxGeometry x="1167.67" y="417.13" width="82.33" height="177.98" as="geometry" />
         </mxCell>
         <mxCell id="GBbAQe1-XjNDRKQaChQB-90" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;fontColor=#000000;startArrow=none;startFill=0;endArrow=blockThin;endFill=1;" edge="1" parent="1" source="GBbAQe1-XjNDRKQaChQB-52" target="GBbAQe1-XjNDRKQaChQB-89">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GBbAQe1-XjNDRKQaChQB-52" value="Chassis&#xa;Dynamics" style="rounded=1;align=center;verticalAlign=middle;fontSize=12;fontStyle=0;strokeColor=#578EC0;fillColor=#C5E0B4;" vertex="1" parent="1">
+        <mxCell id="GBbAQe1-XjNDRKQaChQB-52" value="Chassis&#xa;Dynamics" style="rounded=1;align=center;verticalAlign=middle;fontSize=12;fontStyle=0;" vertex="1" parent="1">
           <mxGeometry x="1330" y="472.4" width="89.91" height="67.44" as="geometry" />
         </mxCell>
-        <mxCell id="GBbAQe1-XjNDRKQaChQB-53" value="Friction &#xa;Estimator" style="rounded=1;align=center;verticalAlign=middle;fontSize=12;fontStyle=0;fillColor=#92D050;strokeColor=#5890C3;" vertex="1" parent="1">
+        <mxCell id="GBbAQe1-XjNDRKQaChQB-53" value="Friction &#xa;Estimator" style="rounded=1;align=center;verticalAlign=middle;fontSize=12;fontStyle=0;" vertex="1" parent="1">
           <mxGeometry x="1607" y="472.24" width="92.76" height="67.6" as="geometry" />
         </mxCell>
         <mxCell id="GBbAQe1-XjNDRKQaChQB-54" value="Road Grid and &#xa;True Friction" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=5.040014648437477;labelBackgroundColor=none;fontSize=12;align=center;verticalAlign=middle;fillColor=#FFFFFF;" vertex="1" parent="1">

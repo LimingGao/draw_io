@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-04-27T21:25:42.012Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="Grmq_4YD07ZT1IQg_6Ii" version="14.6.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-04-27T21:26:24.665Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="DCkF-fwwGCIyJhD5bjyd" version="14.6.1" type="github" pages="2">
   <diagram id="g7usEjnd5ee0Ly5ZbJtn" name="Page-1">
-    <mxGraphModel dx="1588" dy="398" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3433" dy="1393" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -672,12 +672,12 @@
           </mxCell>
         </UserObject>
         <UserObject label="Server &#xa;Interface&#xa;&#xa;&#xa;&#xa;" lucidchartObjectId="qs3s3aPJvgVE" id="NW8IP-rn-EwmyOUBby27-23">
-          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;;whiteSpace=wrap;fontSize=13;fontColor=#000000;align=center;spacing=3.8;strokeColor=#333333;strokeOpacity=100;fillOpacity=34;fillColor=#c1e4f7;strokeWidth=0.8;verticalAlign=top;" parent="1" vertex="1">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;;whiteSpace=wrap;fontSize=13;fontColor=#000000;align=center;spacing=3.8;strokeColor=#333333;strokeOpacity=100;fillOpacity=34;strokeWidth=0.8;verticalAlign=top;fillColor=#C1E4F7;" parent="1" vertex="1">
             <mxGeometry x="2061.07" y="751.1" width="120" height="405" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Data Insertion Protocol Layer&#xa;(Populate DB)" lucidchartObjectId="At3sJHafZNwY" id="NW8IP-rn-EwmyOUBby27-24">
-          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;;whiteSpace=wrap;fontSize=13;fontColor=#000000;align=center;spacing=3.8;strokeColor=#333333;strokeOpacity=100;fillOpacity=100;fillColor=#ffffff;strokeWidth=0.8;verticalAlign=top;" parent="1" vertex="1">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;;whiteSpace=wrap;fontSize=13;fontColor=#000000;align=center;spacing=3.8;strokeColor=#333333;strokeOpacity=100;fillOpacity=100;strokeWidth=0.8;verticalAlign=top;fillColor=#E6E6E6;" parent="1" vertex="1">
             <mxGeometry x="2061.07" y="286.1" width="120" height="380" as="geometry" />
           </mxCell>
         </UserObject>

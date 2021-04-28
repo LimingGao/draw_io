@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-28T05:22:18.371Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="wWzNaJNTeg7vBpplg1vj" version="14.6.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-04-28T05:26:15.794Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="3GPc_SaJn_TTCuphFcIh" version="14.6.1" type="github" pages="2">
   <diagram id="g7usEjnd5ee0Ly5ZbJtn" name="Page-1">
     <mxGraphModel dx="1367" dy="260" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -2480,13 +2480,32 @@
           <mxGeometry x="165.62999999999997" y="1901.36" width="60.79" height="55.25" as="geometry" />
         </mxCell>
         <mxCell id="EPciwlCAxLOxW23dukJo-196" value="Aggregate&#xa; DB" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=5.040014648437477;labelBackgroundColor=none;fontSize=10;align=center;verticalAlign=middle;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="303.81000000000006" y="1901.36" width="60.79" height="55.25" as="geometry" />
+          <mxGeometry x="334.6000000000001" y="1901.36" width="60.79" height="55.25" as="geometry" />
         </mxCell>
         <mxCell id="EPciwlCAxLOxW23dukJo-197" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=9;endArrow=classicThin;endFill=1;" edge="1" parent="1" source="EPciwlCAxLOxW23dukJo-192" target="EPciwlCAxLOxW23dukJo-196">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="329.9999999999998" y="1860.003" as="sourcePoint" />
             <mxPoint x="441.20000000000005" y="1860.017586206896" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="EPciwlCAxLOxW23dukJo-202" value="Context discovery&lt;br&gt;by AVAR, Multiple R-tree" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=8;" vertex="1" connectable="0" parent="EPciwlCAxLOxW23dukJo-197">
+          <mxGeometry x="-0.1546" relative="1" as="geometry">
+            <mxPoint x="7" y="-14" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EPciwlCAxLOxW23dukJo-198" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=9;endArrow=classicThin;endFill=1;exitX=0.516;exitY=0.988;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.017;entryY=0.562;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="EPciwlCAxLOxW23dukJo-192" target="EPciwlCAxLOxW23dukJo-199">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="203.86999999999983" y="1972.0049999999997" as="sourcePoint" />
+            <mxPoint x="240" y="1972" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EPciwlCAxLOxW23dukJo-201" value="forgetting&lt;br&gt;expired data" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=8;" vertex="1" connectable="0" parent="EPciwlCAxLOxW23dukJo-198">
+          <mxGeometry x="0.0098" relative="1" as="geometry">
+            <mxPoint x="11" y="-13" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EPciwlCAxLOxW23dukJo-199" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.sql_datasync;labelBackgroundColor=none;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="271.25" y="1972" width="18.75" height="23" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

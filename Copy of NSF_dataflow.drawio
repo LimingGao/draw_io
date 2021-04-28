@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-28T19:59:34.089Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="ymj50oprsyhBlZ4FR18E" version="14.6.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-04-28T20:00:22.815Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="P-FaSOyTGk6pESu3-xei" version="14.6.1" type="github" pages="2">
   <diagram name="Copy of Page-1" id="AgM60q03j8yA-kbdBG7D">
     <mxGraphModel dx="546" dy="-803" grid="0" gridSize="10" guides="1" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1301,7 +1301,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="aaOWsLBxEMhbwEE29Sy1-1" value="context discovery" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontFamily=Helvetica;fontSize=9;strokeColor=#82b366;fillColor=#d5e8d4;align=center;" vertex="1" parent="aP5PuDfzxaSB8Mdq8UzS-1">
+        <mxCell id="aaOWsLBxEMhbwEE29Sy1-1" value="Context Discovery" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontFamily=Helvetica;fontSize=9;strokeColor=#82b366;fillColor=#d5e8d4;align=center;" vertex="1" parent="aP5PuDfzxaSB8Mdq8UzS-1">
           <mxGeometry x="2339" y="1641.98" width="48.37" height="32" as="geometry" />
         </mxCell>
         <mxCell id="aaOWsLBxEMhbwEE29Sy1-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=9;endArrow=classicThin;endFill=1;strokeWidth=1;endSize=4;" edge="1" parent="aP5PuDfzxaSB8Mdq8UzS-1" source="aP5PuDfzxaSB8Mdq8UzS-634" target="aaOWsLBxEMhbwEE29Sy1-1">
@@ -1310,9 +1310,9 @@
             <mxPoint x="2413.6300000000006" y="1657.985" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aaOWsLBxEMhbwEE29Sy1-3" value="Tools: AVAR, Multiple R-tree" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=8;labelBackgroundColor=none;" vertex="1" connectable="0" parent="aaOWsLBxEMhbwEE29Sy1-2">
+        <mxCell id="aaOWsLBxEMhbwEE29Sy1-3" value="Tools: AVAR, &lt;br&gt;Multiple R-tree" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=8;labelBackgroundColor=none;" vertex="1" connectable="0" parent="aaOWsLBxEMhbwEE29Sy1-2">
           <mxGeometry x="-0.1546" relative="1" as="geometry">
-            <mxPoint x="63" y="-102" as="offset" />
+            <mxPoint x="44" y="28" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>

@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-04-28T06:16:11.770Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="Pl5-5gC6JSR1MHOQ-AlM" version="14.6.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-04-28T06:19:20.807Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="B3YUoKEcYXZ_m_r7fPFs" version="14.6.1" type="github" pages="2">
   <diagram id="g7usEjnd5ee0Ly5ZbJtn" name="Page-1">
-    <mxGraphModel dx="1367" dy="279" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1281" dy="232" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2518,6 +2518,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="EPciwlCAxLOxW23dukJo-320" value="&lt;i&gt;&lt;font face=&quot;Times New Roman&quot;&gt;f&lt;sub&gt;1&lt;/sub&gt;&lt;/font&gt;&lt;/i&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=8;fontColor=#000000;" vertex="1" connectable="0" parent="EPciwlCAxLOxW23dukJo-238">
+          <mxGeometry x="-0.6664" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="EPciwlCAxLOxW23dukJo-258" value="Shared Database  As Sensor" style="text;resizable=0;autosize=1;align=left;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="550.68" y="1871.002352282274" width="140" height="20" as="geometry" />
         </mxCell>
@@ -2662,6 +2667,11 @@
               <mxPoint x="840" y="2100" />
               <mxPoint x="754" y="2100" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EPciwlCAxLOxW23dukJo-321" value="&lt;i&gt;&lt;font face=&quot;Times New Roman&quot;&gt;f&lt;sub&gt;1 &lt;/sub&gt;: friction measurment from vehicle i&lt;/font&gt;&lt;/i&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=8;fontColor=#000000;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="599.0023324565294" y="2127.9999999999995" as="geometry">
+            <mxPoint y="-5" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-28T17:02:05.974Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="D2P10T_ZueoTzyTADnxT" version="14.6.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-04-28T17:02:19.922Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="1Ldw6n9qN9DykIjENP5J" version="14.6.1" type="github" pages="3">
   <diagram id="g7usEjnd5ee0Ly5ZbJtn" name="detailed version">
     <mxGraphModel dx="8600" dy="4180" grid="0" gridSize="10" guides="1" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -3130,8 +3130,8 @@
         <mxCell id="aP5PuDfzxaSB8Mdq8UzS-632" value="" style="rounded=1;fillColor=#dae8fc;labelBackgroundColor=#ffffff;arcSize=8;strokeColor=#6c8ebf;dashed=1;html=1;" vertex="1" parent="aP5PuDfzxaSB8Mdq8UzS-1">
           <mxGeometry x="2207.76" y="1620.9999999999998" width="290" height="109" as="geometry" />
         </mxCell>
-        <mxCell id="aP5PuDfzxaSB8Mdq8UzS-633" value="Shared Database&amp;nbsp;&amp;nbsp;As Sensor" style="text;resizable=0;autosize=1;align=left;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=10;html=1;" vertex="1" parent="aP5PuDfzxaSB8Mdq8UzS-1">
-          <mxGeometry x="2289.7599999999998" y="1605.0023522822737" width="139" height="16" as="geometry" />
+        <mxCell id="aP5PuDfzxaSB8Mdq8UzS-633" value="Shared Database as Sensor" style="text;resizable=0;autosize=1;align=left;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=10;html=1;" vertex="1" parent="aP5PuDfzxaSB8Mdq8UzS-1">
+          <mxGeometry x="2289.7599999999998" y="1605.0023522822737" width="136" height="16" as="geometry" />
         </mxCell>
         <mxCell id="aP5PuDfzxaSB8Mdq8UzS-634" value="Raw Friction&lt;br&gt; Data DB" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=5.040014648437477;labelBackgroundColor=none;fontSize=10;align=center;verticalAlign=middle;fillColor=#FFFFFF;html=1;" vertex="1" parent="aP5PuDfzxaSB8Mdq8UzS-1">
           <mxGeometry x="2250.5499999999997" y="1630.36" width="60.79" height="55.25" as="geometry" />

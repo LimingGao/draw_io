@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-28T17:00:57.760Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="feGT2ib_SjZZH_5mTHfk" version="14.6.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-04-28T17:02:05.974Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="D2P10T_ZueoTzyTADnxT" version="14.6.1" type="github" pages="3">
   <diagram id="g7usEjnd5ee0Ly5ZbJtn" name="detailed version">
     <mxGraphModel dx="8600" dy="4180" grid="0" gridSize="10" guides="1" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -3131,7 +3131,7 @@
           <mxGeometry x="2207.76" y="1620.9999999999998" width="290" height="109" as="geometry" />
         </mxCell>
         <mxCell id="aP5PuDfzxaSB8Mdq8UzS-633" value="Shared Database&amp;nbsp;&amp;nbsp;As Sensor" style="text;resizable=0;autosize=1;align=left;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=10;html=1;" vertex="1" parent="aP5PuDfzxaSB8Mdq8UzS-1">
-          <mxGeometry x="2206.16" y="1603.0023522822737" width="139" height="16" as="geometry" />
+          <mxGeometry x="2289.7599999999998" y="1605.0023522822737" width="139" height="16" as="geometry" />
         </mxCell>
         <mxCell id="aP5PuDfzxaSB8Mdq8UzS-634" value="Raw Friction&lt;br&gt; Data DB" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=5.040014648437477;labelBackgroundColor=none;fontSize=10;align=center;verticalAlign=middle;fillColor=#FFFFFF;html=1;" vertex="1" parent="aP5PuDfzxaSB8Mdq8UzS-1">
           <mxGeometry x="2250.5499999999997" y="1630.36" width="60.79" height="55.25" as="geometry" />
@@ -3239,7 +3239,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="aP5PuDfzxaSB8Mdq8UzS-663" value="CAVs" style="text;resizable=0;autosize=1;align=left;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=10;html=1;" vertex="1" parent="aP5PuDfzxaSB8Mdq8UzS-1">
-          <mxGeometry x="2317" y="1751.4123522822738" width="35" height="16" as="geometry" />
+          <mxGeometry x="2335.26" y="1751.4123522822738" width="35" height="16" as="geometry" />
         </mxCell>
         <mxCell id="aP5PuDfzxaSB8Mdq8UzS-664" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;fontColor=#000000;startArrow=none;startFill=0;endArrow=none;endFill=0;entryX=0.501;entryY=1.001;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.962;exitY=-0.001;exitDx=0;exitDy=0;exitPerimeter=0;endSize=3;dashed=1;strokeColor=#3333FF;dashPattern=1 2;" edge="1" parent="aP5PuDfzxaSB8Mdq8UzS-1" source="aP5PuDfzxaSB8Mdq8UzS-626" target="aP5PuDfzxaSB8Mdq8UzS-628">
           <mxGeometry relative="1" as="geometry">
@@ -3280,6 +3280,9 @@
         </mxCell>
         <mxCell id="zYKUogV5vkIVk_ZSUdCf-6" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/jumpicon-basic-ui-glyph-1/32/-_Dot-More-Option-Menu-128.png;rounded=0;shadow=0;glass=0;sketch=0;fontSize=8;strokeColor=#3333FF;fillColor=#3399FF;align=left;" vertex="1" parent="aP5PuDfzxaSB8Mdq8UzS-1">
           <mxGeometry x="2338.76" y="1788.2799999999997" width="28" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="zYKUogV5vkIVk_ZSUdCf-8" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;i&gt;feedback friction preview&lt;/i&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=8;" vertex="1" connectable="0" parent="aP5PuDfzxaSB8Mdq8UzS-1">
+          <mxGeometry x="2494.9973844160927" y="1744.0022135615861" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

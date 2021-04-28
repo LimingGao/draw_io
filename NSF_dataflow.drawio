@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-04-28T16:45:06.782Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="BsmwY84seya1vwl6QIKW" version="14.6.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-04-28T16:46:51.253Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="l4QfJm4oxmd4W-unzvtg" version="14.6.1" type="github" pages="2">
   <diagram id="g7usEjnd5ee0Ly5ZbJtn" name="Page-1">
-    <mxGraphModel dx="1588" dy="398" grid="0" gridSize="10" guides="1" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="8600" dy="4180" grid="0" gridSize="10" guides="1" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3266,6 +3266,18 @@
               <mxPoint x="2384.76" y="1793.9999999999998" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="LdZVQKmvuT9p96tN1nuI-72" value="" style="group;fillColor=#ffffff;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="2664" y="1640" width="101.70000000000003" height="51.42" as="geometry" />
+        </mxCell>
+        <mxCell id="LdZVQKmvuT9p96tN1nuI-73" value="" style="rounded=1;align=center;verticalAlign=middle;fontSize=9;fontStyle=0;strokeColor=#666666;fontColor=#333333;fillColor=#99FF99;" vertex="1" parent="LdZVQKmvuT9p96tN1nuI-72">
+          <mxGeometry x="-2.68" width="101.70000000000003" height="51.41999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="LdZVQKmvuT9p96tN1nuI-74" value="" style="aspect=fixed;perimeter=ellipsePerimeter;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/database_server.svg;strokeColor=#FF33FF;strokeWidth=3;fillColor=none;gradientColor=#ffffff;" vertex="1" parent="LdZVQKmvuT9p96tN1nuI-72">
+          <mxGeometry x="58.616347358997324" y="7.818835060207233" width="29.51862223466815" height="35.998319798375796" as="geometry" />
+        </mxCell>
+        <mxCell id="LdZVQKmvuT9p96tN1nuI-75" value="Shared &#xa;Database &#xa;Server" style="text;resizable=0;autosize=1;align=left;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=10;" vertex="1" parent="LdZVQKmvuT9p96tN1nuI-72">
+          <mxGeometry x="-5.1514348342607263e-14" y="2.0023522822738844" width="53" height="37" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

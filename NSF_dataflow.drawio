@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-28T17:08:30.253Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="LvcKWkkoM_lJjgmUrUku" version="14.6.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-04-28T17:08:47.920Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="AykGKC3gSlRHyWnsJf8o" version="14.6.1" type="github" pages="3">
   <diagram id="g7usEjnd5ee0Ly5ZbJtn" name="detailed version">
     <mxGraphModel dx="8600" dy="4180" grid="0" gridSize="10" guides="1" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -3277,10 +3277,13 @@
           <mxGeometry y="3.849999999999938" width="39" height="21.780000000000165" as="geometry" />
         </mxCell>
         <mxCell id="zYKUogV5vkIVk_ZSUdCf-6" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/jumpicon-basic-ui-glyph-1/32/-_Dot-More-Option-Menu-128.png;rounded=0;shadow=0;glass=0;sketch=0;fontSize=8;strokeColor=#3333FF;fillColor=#3399FF;align=left;" vertex="1" parent="aP5PuDfzxaSB8Mdq8UzS-1">
-          <mxGeometry x="2338.76" y="1788.2799999999997" width="28" height="28" as="geometry" />
+          <mxGeometry x="2288.5400000000004" y="1788.5899999999997" width="28" height="28" as="geometry" />
         </mxCell>
         <mxCell id="zYKUogV5vkIVk_ZSUdCf-8" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;i&gt;feedback friction preview&lt;/i&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=8;" vertex="1" connectable="0" parent="aP5PuDfzxaSB8Mdq8UzS-1">
           <mxGeometry x="2494.9973844160927" y="1744.0022135615861" as="geometry" />
+        </mxCell>
+        <mxCell id="zYKUogV5vkIVk_ZSUdCf-9" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/jumpicon-basic-ui-glyph-1/32/-_Dot-More-Option-Menu-128.png;rounded=0;shadow=0;glass=0;sketch=0;fontSize=8;strokeColor=#3333FF;fillColor=#3399FF;align=left;" vertex="1" parent="aP5PuDfzxaSB8Mdq8UzS-1">
+          <mxGeometry x="2385.63" y="1790.0699999999997" width="28" height="28" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

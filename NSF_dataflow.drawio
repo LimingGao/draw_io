@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-04-28T06:34:14.757Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="cnUdf6SiRyfJTWkC_idP" version="14.6.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-04-28T06:34:39.701Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="eWXKKfwV0g_oVV1HzfUR" version="14.6.1" type="github" pages="2">
   <diagram id="g7usEjnd5ee0Ly5ZbJtn" name="Page-1">
-    <mxGraphModel dx="1470" dy="334" grid="0" gridSize="10" guides="1" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1588" dy="398" grid="0" gridSize="10" guides="1" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2524,7 +2524,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="EPciwlCAxLOxW23dukJo-258" value="Shared Database  As Sensor for CAVs" style="text;resizable=0;autosize=1;align=left;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=10;html=1;" vertex="1" parent="1">
-          <mxGeometry x="521.01" y="1874.002352282274" width="190" height="20" as="geometry" />
+          <mxGeometry x="514.33" y="1876.002352282274" width="190" height="20" as="geometry" />
         </mxCell>
         <mxCell id="EPciwlCAxLOxW23dukJo-259" value="Raw Friction&lt;br&gt; Data DB" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=5.040014648437477;labelBackgroundColor=none;fontSize=10;align=center;verticalAlign=middle;fillColor=#FFFFFF;html=1;" vertex="1" parent="1">
           <mxGeometry x="558.72" y="1905.36" width="60.79" height="55.25" as="geometry" />

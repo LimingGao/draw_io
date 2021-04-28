@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-04-28T19:50:16.294Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="Rnmwml7oPJtx8ooTYpPJ" version="14.6.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-04-28T19:51:14.072Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="LWJRREyVJXr1cfo-0UW5" version="14.6.1" type="github" pages="2">
   <diagram name="Copy of Page-1" id="AgM60q03j8yA-kbdBG7D">
-    <mxGraphModel dx="265" dy="-956" grid="0" gridSize="10" guides="1" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="379" dy="-894" grid="0" gridSize="10" guides="1" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="aP5PuDfzxaSB8Mdq8UzS-0" />
         <mxCell id="aP5PuDfzxaSB8Mdq8UzS-1" parent="aP5PuDfzxaSB8Mdq8UzS-0" />
@@ -945,11 +945,11 @@
         <mxCell id="aP5PuDfzxaSB8Mdq8UzS-633" value="Shared Database as Sensor" style="text;resizable=0;autosize=1;align=left;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=10;html=1;" parent="aP5PuDfzxaSB8Mdq8UzS-1" vertex="1">
           <mxGeometry x="2289.7599999999998" y="1605.0023522822737" width="136" height="16" as="geometry" />
         </mxCell>
-        <mxCell id="aP5PuDfzxaSB8Mdq8UzS-634" value="Raw Friction&lt;br&gt; Data DB" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=5.040014648437477;labelBackgroundColor=none;fontSize=10;align=center;verticalAlign=middle;fillColor=#FFFFFF;html=1;" parent="aP5PuDfzxaSB8Mdq8UzS-1" vertex="1">
+        <mxCell id="aP5PuDfzxaSB8Mdq8UzS-634" value="Raw Friction&lt;br style=&quot;font-size: 9px;&quot;&gt;&amp;nbsp;Data DB" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=5.040014648437477;labelBackgroundColor=none;fontSize=9;align=center;verticalAlign=middle;fillColor=#FFFFFF;html=1;" parent="aP5PuDfzxaSB8Mdq8UzS-1" vertex="1">
           <mxGeometry x="2250.5499999999997" y="1630.36" width="60.79" height="55.25" as="geometry" />
         </mxCell>
-        <mxCell id="aP5PuDfzxaSB8Mdq8UzS-635" value="Aggregated&lt;br&gt;Data DB" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=5.040014648437477;labelBackgroundColor=none;fontSize=10;align=center;verticalAlign=middle;fillColor=#cdeb8b;strokeColor=#36393d;html=1;" parent="aP5PuDfzxaSB8Mdq8UzS-1" vertex="1">
-          <mxGeometry x="2413.6300000000006" y="1630.36" width="60.79" height="55.25" as="geometry" />
+        <mxCell id="aP5PuDfzxaSB8Mdq8UzS-635" value="Aggregated&lt;br style=&quot;font-size: 9px;&quot;&gt;Data DB" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=5.040014648437477;labelBackgroundColor=none;fontSize=9;align=center;verticalAlign=middle;fillColor=#cdeb8b;strokeColor=#36393d;html=1;" parent="aP5PuDfzxaSB8Mdq8UzS-1" vertex="1">
+          <mxGeometry x="2413.63" y="1630.36" width="60.37" height="55.25" as="geometry" />
         </mxCell>
         <mxCell id="aP5PuDfzxaSB8Mdq8UzS-636" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=9;endArrow=classicThin;endFill=1;strokeWidth=1;" parent="aP5PuDfzxaSB8Mdq8UzS-1" source="aP5PuDfzxaSB8Mdq8UzS-634" target="aP5PuDfzxaSB8Mdq8UzS-635" edge="1">
           <mxGeometry relative="1" as="geometry">

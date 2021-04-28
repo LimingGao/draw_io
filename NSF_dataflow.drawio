@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-04-28T06:31:56.620Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="VLxFbuJaPWgtGoBlShr4" version="14.6.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-04-28T06:34:00.069Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="jBAhQ1av_im9_ITtvPcQ" version="14.6.1" type="github" pages="2">
   <diagram id="g7usEjnd5ee0Ly5ZbJtn" name="Page-1">
-    <mxGraphModel dx="1588" dy="398" grid="0" gridSize="10" guides="1" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1470" dy="334" grid="0" gridSize="10" guides="1" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2562,15 +2562,15 @@
             <mxPoint x="876.0892619168488" y="2050.426192603068" as="sourcePoint" />
             <mxPoint x="732.8781944809904" y="2048.652824624108" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="830.33" y="1916" />
-              <mxPoint x="830.33" y="2113" />
-              <mxPoint x="537.33" y="2113" />
+              <mxPoint x="830" y="1916" />
+              <mxPoint x="830" y="2125" />
+              <mxPoint x="538" y="2125" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="EPciwlCAxLOxW23dukJo-322" value="friction preview (friction estimate from DB)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=8;fontColor=#000000;" vertex="1" connectable="0" parent="EPciwlCAxLOxW23dukJo-266">
           <mxGeometry x="0.0987" y="-1" relative="1" as="geometry">
-            <mxPoint x="-40" as="offset" />
+            <mxPoint x="-38" y="20" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="EPciwlCAxLOxW23dukJo-280" value="" style="group;html=1;" vertex="1" connectable="0" parent="1">
@@ -2600,14 +2600,14 @@
         <mxCell id="EPciwlCAxLOxW23dukJo-292" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/jumpicon-basic-ui-glyph-1/32/-_Dot-More-Option-Menu-128.png;rounded=0;shadow=0;glass=0;sketch=0;fontSize=8;strokeColor=#3333FF;fillColor=#3399FF;align=left;" vertex="1" parent="1">
           <mxGeometry x="645" y="2057.43" width="28" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="EPciwlCAxLOxW23dukJo-293" value="Vehicle 1 &lt;br&gt;on context 1" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;labelBackgroundColor=none;fontSize=8;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="EPciwlCAxLOxW23dukJo-293" value="Vehicle 1 &lt;br&gt;on context a" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;labelBackgroundColor=none;fontSize=8;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="548.9400000000002" y="2089.6099999999997" width="57" height="23" as="geometry" />
         </mxCell>
-        <mxCell id="EPciwlCAxLOxW23dukJo-295" value="Vehicle N" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;labelBackgroundColor=none;fontSize=8;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="727.2" y="2086" width="50" height="20" as="geometry" />
+        <mxCell id="EPciwlCAxLOxW23dukJo-295" value="Vehicle n&lt;br&gt;on context m" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;labelBackgroundColor=none;fontSize=8;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="722.2" y="2085" width="60" height="23" as="geometry" />
         </mxCell>
-        <mxCell id="EPciwlCAxLOxW23dukJo-296" value="Vehicle i" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;labelBackgroundColor=none;fontSize=8;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="633.0900000000001" y="2084.72" width="50" height="20" as="geometry" />
+        <mxCell id="EPciwlCAxLOxW23dukJo-296" value="Vehicle i&lt;br&gt;on context j" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;labelBackgroundColor=none;fontSize=8;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="631.5000000000001" y="2087.8599999999997" width="55" height="23" as="geometry" />
         </mxCell>
         <mxCell id="EPciwlCAxLOxW23dukJo-298" value="vehicle&lt;br&gt;system" style="rounded=1;html=1;shadow=0;glass=0;labelBackgroundColor=none;sketch=0;fontSize=8;align=left;" vertex="1" parent="1">
           <mxGeometry x="764.5300000000001" y="2062.58" width="30.8" height="20.42" as="geometry" />
@@ -2668,24 +2668,24 @@
             <mxPoint x="798.4192100000001" y="1926.2995" as="sourcePoint" />
             <mxPoint x="547.455" y="2091.0623" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="810.33" y="1950" />
-              <mxPoint x="810.33" y="2103" />
-              <mxPoint x="724.33" y="2103" />
+              <mxPoint x="810" y="1950" />
+              <mxPoint x="810" y="2110" />
+              <mxPoint x="725" y="2110" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="EPciwlCAxLOxW23dukJo-321" value="&lt;i&gt;&lt;font face=&quot;Times New Roman&quot;&gt;fi&lt;sub&gt;&amp;nbsp;&lt;/sub&gt;: friction measurment from vehicle i&lt;/font&gt;&lt;/i&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=8;fontColor=#000000;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="569.3323324565295" y="2130.9999999999995" as="geometry">
+          <mxGeometry x="569.3323324565295" y="2142.5799999999995" as="geometry">
             <mxPoint y="-5" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="EPciwlCAxLOxW23dukJo-323" value="&lt;i&gt;&lt;font face=&quot;Times New Roman&quot;&gt;f&lt;sub&gt;pi&amp;nbsp;&lt;/sub&gt;: friction preview to vehicle i&lt;/font&gt;&lt;/i&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=8;fontColor=#000000;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="558.7223324565294" y="2145.5799999999995" as="geometry">
+          <mxGeometry x="558.7223324565294" y="2157.5399999999995" as="geometry">
             <mxPoint y="-5" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EPciwlCAxLOxW23dukJo-324" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;i&gt;questions:&amp;nbsp;&lt;br&gt;&lt;/i&gt;&lt;/font&gt;1. which vehicle unit is better&lt;br&gt;2. arrow labels" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];fontSize=8;fontColor=#000000;rotation=0;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="715.0023324565294" y="2157.5399999999995" as="geometry">
+        <mxCell id="EPciwlCAxLOxW23dukJo-324" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;i&gt;questions:&amp;nbsp;&lt;br&gt;&lt;/i&gt;&lt;/font&gt;1. which vehicle unit is better&lt;br&gt;2. arrow labels" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];fontSize=8;rotation=0;fontColor=#CC0000;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="602.0023324565294" y="2199.5399999999995" as="geometry">
             <mxPoint y="-5" as="offset" />
           </mxGeometry>
         </mxCell>

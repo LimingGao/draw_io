@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2021-04-28T05:50:27.118Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="ycU-6Bl7vP-5v8OD11R2" version="14.6.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-04-28T06:00:13.681Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="Y7VhxsDim-cs3HxXjgGD" version="14.6.1" type="github" pages="2">
   <diagram id="g7usEjnd5ee0Ly5ZbJtn" name="Page-1">
-    <mxGraphModel dx="1023" dy="93" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1151" dy="162" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="EPciwlCAxLOxW23dukJo-270" value="" style="rounded=1;fillColor=#f9f7ed;labelBackgroundColor=#ffffff;arcSize=8;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="550" y="2097.36" width="89.37" height="38.86" as="geometry" />
+          <mxGeometry x="544" y="2049" width="99.74" height="38.86" as="geometry" />
         </mxCell>
         <mxCell id="EPciwlCAxLOxW23dukJo-195" value="" style="rounded=1;fillColor=#ffe6cc;labelBackgroundColor=#ffffff;arcSize=8;strokeColor=#d79b00;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="120.91" y="1890" width="290" height="115.51" as="geometry" />
@@ -2520,6 +2520,11 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="615" y="2062" as="sourcePoint" />
             <mxPoint x="611" y="2008" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="606" y="2040" />
+              <mxPoint x="570" y="2040" />
+              <mxPoint x="570" y="1927" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="EPciwlCAxLOxW23dukJo-258" value="Shared Database  As Sensor" style="text;resizable=0;autosize=1;align=left;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=10;" vertex="1" parent="1">
@@ -2556,10 +2561,15 @@
         <mxCell id="EPciwlCAxLOxW23dukJo-265" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.sql_datasync;labelBackgroundColor=none;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="707.01" y="1973" width="18.75" height="23" as="geometry" />
         </mxCell>
-        <mxCell id="EPciwlCAxLOxW23dukJo-266" value="" style="endArrow=classicThin;fontSize=10;exitX=0.998;exitY=0.492;exitDx=0;exitDy=0;exitPerimeter=0;startArrow=none;startFill=0;endFill=1;edgeStyle=orthogonalEdgeStyle;rounded=0;" edge="1" parent="1" source="EPciwlCAxLOxW23dukJo-260">
+        <mxCell id="EPciwlCAxLOxW23dukJo-266" value="" style="endArrow=classicThin;fontSize=10;exitX=0.998;exitY=0.492;exitDx=0;exitDy=0;exitPerimeter=0;startArrow=none;startFill=0;endFill=1;edgeStyle=orthogonalEdgeStyle;rounded=0;entryX=0.575;entryY=1.061;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#9933FF;" edge="1" parent="1" source="EPciwlCAxLOxW23dukJo-260" target="EPciwlCAxLOxW23dukJo-284">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="905.7592619168488" y="2047.426192603068" as="sourcePoint" />
             <mxPoint x="762.5481944809903" y="2045.6528246241078" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="860" y="1930" />
+              <mxPoint x="860" y="2110" />
+              <mxPoint x="567" y="2110" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="EPciwlCAxLOxW23dukJo-280" value="" style="group" vertex="1" connectable="0" parent="1">
@@ -2576,6 +2586,36 @@
         </mxCell>
         <mxCell id="EPciwlCAxLOxW23dukJo-279" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=8;strokeColor=none;fillColor=#3399FF;" vertex="1" parent="EPciwlCAxLOxW23dukJo-280">
           <mxGeometry y="26.72" width="42" height="3.28" as="geometry" />
+        </mxCell>
+        <mxCell id="EPciwlCAxLOxW23dukJo-284" value="controller" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;labelBackgroundColor=none;sketch=0;fontSize=8;align=left;" vertex="1" parent="1">
+          <mxGeometry x="547" y="2060.97" width="35" height="14.92" as="geometry" />
+        </mxCell>
+        <mxCell id="EPciwlCAxLOxW23dukJo-285" value="" style="rounded=1;fillColor=#f9f7ed;labelBackgroundColor=#ffffff;arcSize=8;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="733.13" y="2050.61" width="99.74" height="38.86" as="geometry" />
+        </mxCell>
+        <mxCell id="EPciwlCAxLOxW23dukJo-291" value="controller" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;labelBackgroundColor=none;sketch=0;fontSize=8;align=left;snapToPoint=1;" vertex="1" parent="1">
+          <mxGeometry x="736.13" y="2062.58" width="35" height="14.92" as="geometry" />
+        </mxCell>
+        <mxCell id="EPciwlCAxLOxW23dukJo-292" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/jumpicon-basic-ui-glyph-1/32/-_Dot-More-Option-Menu-128.png;rounded=0;shadow=0;glass=0;sketch=0;fontSize=8;strokeColor=#3333FF;fillColor=#3399FF;align=left;" vertex="1" parent="1">
+          <mxGeometry x="679.01" y="2056.04" width="28" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="EPciwlCAxLOxW23dukJo-293" value="Vehicle 1" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;labelBackgroundColor=none;fontSize=8;fontColor=#0000FF;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="570.0000000000001" y="2084.04" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="EPciwlCAxLOxW23dukJo-295" value="Vehicle N" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;labelBackgroundColor=none;fontSize=8;fontColor=#0000FF;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="758.0000000000001" y="2086" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="EPciwlCAxLOxW23dukJo-296" value="Vehicle i" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;labelBackgroundColor=none;fontSize=8;fontColor=#0000FF;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="668.0100000000001" y="2081.72" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="EPciwlCAxLOxW23dukJo-298" value="system" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;labelBackgroundColor=none;sketch=0;fontSize=8;align=left;" vertex="1" parent="1">
+          <mxGeometry x="794.2" y="2062.58" width="35" height="14.92" as="geometry" />
+        </mxCell>
+        <mxCell id="EPciwlCAxLOxW23dukJo-299" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=9;endArrow=classicThin;endFill=1;exitX=1.003;exitY=0.498;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.001;entryY=0.495;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="EPciwlCAxLOxW23dukJo-291" target="EPciwlCAxLOxW23dukJo-298">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="773.1399999999998" y="2070.005" as="sourcePoint" />
+            <mxPoint x="881.32" y="2070.005" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>

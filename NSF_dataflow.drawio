@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-04-28T20:16:24.643Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="lF0TpgfuZhlQLy5YemEA" version="14.6.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-04-28T20:16:57.292Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="lnZJmDMT8l2PH28m8V7s" version="14.6.1" type="github" pages="3">
   <diagram id="g7usEjnd5ee0Ly5ZbJtn" name="detailed version">
-    <mxGraphModel dx="5397" dy="2477" grid="0" gridSize="10" guides="1" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1987" dy="619" grid="0" gridSize="10" guides="1" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -877,9 +877,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="_u7RzBxuJXRDmLX1nk55-7" value="texture true friction and road geometry" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=30;fontColor=#000000;labelBackgroundColor=none;" parent="GBbAQe1-XjNDRKQaChQB-85" vertex="1" connectable="0">
+        <mxCell id="_u7RzBxuJXRDmLX1nk55-7" value="texture true friction and road geometry" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=22;fontColor=#000000;labelBackgroundColor=none;" parent="GBbAQe1-XjNDRKQaChQB-85" vertex="1" connectable="0">
           <mxGeometry x="0.0179" y="1" relative="1" as="geometry">
-            <mxPoint x="-20" y="-17" as="offset" />
+            <mxPoint x="-60" y="-15" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GBbAQe1-XjNDRKQaChQB-91" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;fontColor=#000000;startArrow=none;startFill=0;endArrow=blockThin;endFill=1;" parent="1" source="GBbAQe1-XjNDRKQaChQB-89" target="GBbAQe1-XjNDRKQaChQB-53" edge="1">

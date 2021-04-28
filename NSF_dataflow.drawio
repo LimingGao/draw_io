@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-28T06:19:45.210Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="TIwCV0oHq49AT_Q2_-mM" version="14.6.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-04-28T06:21:05.685Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="_1veg88E2_QnVH5xJgX-" version="14.6.1" type="github" pages="2">
   <diagram id="g7usEjnd5ee0Ly5ZbJtn" name="Page-1">
     <mxGraphModel dx="1367" dy="279" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -2568,6 +2568,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="EPciwlCAxLOxW23dukJo-322" value="friction preview (friction estimate from DB)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=8;fontColor=#000000;" vertex="1" connectable="0" parent="EPciwlCAxLOxW23dukJo-266">
+          <mxGeometry x="0.0987" y="-1" relative="1" as="geometry">
+            <mxPoint x="-40" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="EPciwlCAxLOxW23dukJo-280" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="599" y="2050.000116213511" width="42.74000000000001" height="31.719883786488936" as="geometry" />
         </mxCell>
@@ -2669,8 +2674,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="EPciwlCAxLOxW23dukJo-321" value="&lt;i&gt;&lt;font face=&quot;Times New Roman&quot;&gt;f&lt;sub&gt;1 &lt;/sub&gt;: friction measurment from vehicle i&lt;/font&gt;&lt;/i&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=8;fontColor=#000000;" vertex="1" connectable="0" parent="1">
+        <mxCell id="EPciwlCAxLOxW23dukJo-321" value="&lt;i&gt;&lt;font face=&quot;Times New Roman&quot;&gt;fi&lt;sub&gt;&amp;nbsp;&lt;/sub&gt;: friction measurment from vehicle i&lt;/font&gt;&lt;/i&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=8;fontColor=#000000;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="599.0023324565294" y="2127.9999999999995" as="geometry">
+            <mxPoint y="-5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EPciwlCAxLOxW23dukJo-323" value="&lt;i&gt;&lt;font face=&quot;Times New Roman&quot;&gt;f&lt;sub&gt;pi&amp;nbsp;&lt;/sub&gt;: friction preview to vehicle i&lt;/font&gt;&lt;/i&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=8;fontColor=#000000;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="588.3923324565294" y="2142.5799999999995" as="geometry">
             <mxPoint y="-5" as="offset" />
           </mxGeometry>
         </mxCell>

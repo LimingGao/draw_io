@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-28T17:22:24.062Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="JcMHlZKaZlmBhznBJleg" version="14.6.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-04-28T17:22:47.883Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="HWGdADvHBBuHn47tHXp5" version="14.6.1" type="github" pages="2">
   <diagram name="Copy of Page-1" id="AgM60q03j8yA-kbdBG7D">
     <mxGraphModel dx="738" dy="-702" grid="0" gridSize="10" guides="1" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1167,17 +1167,7 @@
         </mxCell>
         <mxCell id="h2AuAQbUO4TEC5yXGXfV-25" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;i&gt;friction estimate&lt;/i&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=8;" vertex="1" connectable="0" parent="h2AuAQbUO4TEC5yXGXfV-24">
           <mxGeometry x="-0.3482" relative="1" as="geometry">
-            <mxPoint x="7" y="1" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="h2AuAQbUO4TEC5yXGXfV-26" value="&lt;i&gt;&lt;font face=&quot;Times New Roman&quot;&gt;fi&lt;sub&gt;&amp;nbsp;&lt;/sub&gt;: friction measurment from vehicle i&lt;/font&gt;&lt;/i&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=8;fontColor=#000000;" vertex="1" connectable="0" parent="aP5PuDfzxaSB8Mdq8UzS-1">
-          <mxGeometry x="3073.3023324565297" y="1850.3099999999993" as="geometry">
-            <mxPoint y="-5" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="h2AuAQbUO4TEC5yXGXfV-27" value="&lt;i&gt;&lt;font face=&quot;Times New Roman&quot;&gt;f&lt;sub&gt;pi&amp;nbsp;&lt;/sub&gt;: friction preview to vehicle i&lt;/font&gt;&lt;/i&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=8;fontColor=#000000;" vertex="1" connectable="0" parent="aP5PuDfzxaSB8Mdq8UzS-1">
-          <mxGeometry x="3062.6923324565296" y="1865.2699999999993" as="geometry">
-            <mxPoint y="-5" as="offset" />
+            <mxPoint x="6" y="13" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="h2AuAQbUO4TEC5yXGXfV-28" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;fixedSize=1;fontFamily=Times New Roman;size=16.044270098286347;labelBorderColor=none;fontColor=#ffffff;strokeColor=none;opacity=70;fillColor=#1BA1E2;" vertex="1" parent="aP5PuDfzxaSB8Mdq8UzS-1">

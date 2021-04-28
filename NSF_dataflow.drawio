@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-28T20:28:12.629Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="91aJGyQR30ruOKrFGJSy" version="14.6.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-04-28T20:28:23.113Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="sRS7meI0F6v1BqJHhQZI" version="14.6.1" type="github" pages="3">
   <diagram id="g7usEjnd5ee0Ly5ZbJtn" name="detailed version">
     <mxGraphModel dx="3578" dy="1486" grid="0" gridSize="10" guides="1" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -2025,7 +2025,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="EPciwlCAxLOxW23dukJo-37" value="Vehicle trajectories in traffic scenarios and true road contexts/friction/geometry" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;labelBackgroundColor=none;fontSize=28;fontColor=#0000FF;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="-212" y="160.00000000000006" width="1070" height="40" as="geometry" />
+          <mxGeometry x="-190" y="160.00000000000006" width="1070" height="40" as="geometry" />
         </mxCell>
         <mxCell id="EPciwlCAxLOxW23dukJo-39" value="Vehicle i moving on road context cp (CAVs)" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;labelBackgroundColor=none;fontSize=28;fontColor=#0000FF;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1110" y="160.00000000000006" width="590" height="40" as="geometry" />

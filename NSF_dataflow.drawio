@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-04-28T06:30:50.783Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="-9uobvI35r7ScRrUSnPz" version="14.6.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-04-28T06:31:56.620Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="VLxFbuJaPWgtGoBlShr4" version="14.6.1" type="github" pages="2">
   <diagram id="g7usEjnd5ee0Ly5ZbJtn" name="Page-1">
-    <mxGraphModel dx="1470" dy="334" grid="0" gridSize="10" guides="1" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1588" dy="398" grid="0" gridSize="10" guides="1" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2681,6 +2681,11 @@
         </mxCell>
         <mxCell id="EPciwlCAxLOxW23dukJo-323" value="&lt;i&gt;&lt;font face=&quot;Times New Roman&quot;&gt;f&lt;sub&gt;pi&amp;nbsp;&lt;/sub&gt;: friction preview to vehicle i&lt;/font&gt;&lt;/i&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=8;fontColor=#000000;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="558.7223324565294" y="2145.5799999999995" as="geometry">
+            <mxPoint y="-5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EPciwlCAxLOxW23dukJo-324" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;i&gt;questions:&amp;nbsp;&lt;br&gt;&lt;/i&gt;&lt;/font&gt;1. which vehicle unit is better&lt;br&gt;2. arrow labels" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];fontSize=8;fontColor=#000000;rotation=0;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="715.0023324565294" y="2157.5399999999995" as="geometry">
             <mxPoint y="-5" as="offset" />
           </mxGeometry>
         </mxCell>

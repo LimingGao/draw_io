@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-04-28T06:19:20.807Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="B3YUoKEcYXZ_m_r7fPFs" version="14.6.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-04-28T06:19:45.210Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="TIwCV0oHq49AT_Q2_-mM" version="14.6.1" type="github" pages="2">
   <diagram id="g7usEjnd5ee0Ly5ZbJtn" name="Page-1">
-    <mxGraphModel dx="1281" dy="232" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1367" dy="279" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2635,7 +2635,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="EPciwlCAxLOxW23dukJo-308" value="friction measurement" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=8;" vertex="1" connectable="0" parent="EPciwlCAxLOxW23dukJo-307">
+        <mxCell id="EPciwlCAxLOxW23dukJo-308" value="&lt;i&gt;&lt;font face=&quot;Times New Roman&quot;&gt;f&lt;span style=&quot;font-size: 6.66667px&quot;&gt;i&lt;/span&gt;&lt;/font&gt;&lt;/i&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=8;" vertex="1" connectable="0" parent="EPciwlCAxLOxW23dukJo-307">
           <mxGeometry x="-0.3482" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>

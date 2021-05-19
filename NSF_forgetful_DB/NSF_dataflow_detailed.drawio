@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-19T21:05:46.055Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="uRxBE-pvdvr6w8ZVVwP1" version="14.6.10" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-05-19T21:06:09.006Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="1ZP7Eird3SBHfU6cfeev" version="14.6.10" type="github" pages="3">
   <diagram id="g7usEjnd5ee0Ly5ZbJtn" name="detailed version">
     <mxGraphModel dx="4260" dy="1858" grid="0" gridSize="10" guides="1" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -831,7 +831,7 @@
         </mxCell>
         <mxCell id="_u7RzBxuJXRDmLX1nk55-20" value="desired&lt;br style=&quot;font-size: 30px;&quot;&gt;&amp;nbsp;trajectory 1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=30;fontColor=#0000FF;labelBackgroundColor=none;" parent="GBbAQe1-XjNDRKQaChQB-70" vertex="1" connectable="0">
           <mxGeometry x="-0.2891" y="-1" relative="1" as="geometry">
-            <mxPoint x="41" y="-40" as="offset" />
+            <mxPoint x="56" y="-41" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GBbAQe1-XjNDRKQaChQB-71" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=9;endArrow=none;endFill=0;startArrow=classicThin;startFill=1;dashed=1;exitX=0.535;exitY=0.007;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="sdquQk6Ne_uuqH1AtgiG-79" edge="1">
@@ -1109,7 +1109,7 @@
         </mxCell>
         <mxCell id="EPciwlCAxLOxW23dukJo-28" value="desired&lt;br style=&quot;font-size: 30px;&quot;&gt;&amp;nbsp;trajectory N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=30;fontColor=#0000FF;labelBackgroundColor=none;" parent="EPciwlCAxLOxW23dukJo-27" vertex="1" connectable="0">
           <mxGeometry x="-0.2891" y="-1" relative="1" as="geometry">
-            <mxPoint x="91" y="231" as="offset" />
+            <mxPoint x="93" y="260" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="EPciwlCAxLOxW23dukJo-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=9;endArrow=classicThin;endFill=1;entryX=0.198;entryY=1.006;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;strokeColor=#0C7CBA;" parent="1" edge="1">

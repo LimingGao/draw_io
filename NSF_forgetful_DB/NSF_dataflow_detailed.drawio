@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-21T08:34:06.770Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="gkkimcH3z6zNyNEfZNNl" version="14.6.10" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-05-21T08:35:09.997Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="DLE1AMFfsLpLGY92Zw3o" version="14.6.10" type="github" pages="3">
   <diagram id="g7usEjnd5ee0Ly5ZbJtn" name="detailed version">
-    <mxGraphModel dx="1791" dy="512" grid="0" gridSize="10" guides="1" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2799" dy="1061" grid="0" gridSize="10" guides="1" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -776,7 +776,7 @@
         </UserObject>
         <mxCell id="NW8IP-rn-EwmyOUBby27-39" value="Maybe?" style="text;html=1;resizable=0;labelBackgroundColor=#ffffff;align=center;verticalAlign=middle;fontColor=#000000;;fontSize=13;" parent="NW8IP-rn-EwmyOUBby27-38" vertex="1">
           <mxGeometry x="-0.05657230656643575" relative="1" as="geometry">
-            <mxPoint x="16" y="-45" as="offset" />
+            <mxPoint x="5" y="-9" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GBbAQe1-XjNDRKQaChQB-22" value="" style="rounded=1;fillColor=#f9f7ed;labelBackgroundColor=#ffffff;arcSize=8;strokeColor=#36393d;" parent="1" vertex="1">
@@ -1060,7 +1060,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="EPciwlCAxLOxW23dukJo-21" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/jumpicon-basic-ui-glyph-1/32/-_Dot-More-Vertical-Menu-128.png;" parent="1" vertex="1">
-          <mxGeometry x="1402.19" y="748.0999999999999" width="69.93" height="69.93" as="geometry" />
+          <mxGeometry x="1494.8500000000001" y="736.0999999999999" width="69.93" height="69.93" as="geometry" />
         </mxCell>
         <mxCell id="EPciwlCAxLOxW23dukJo-37" value="Vehicle trajectories in traffic scenarios and true road contexts/friction/geometry" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;labelBackgroundColor=none;fontSize=28;fontColor=#0000FF;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-190" y="160.00000000000006" width="1070" height="40" as="geometry" />

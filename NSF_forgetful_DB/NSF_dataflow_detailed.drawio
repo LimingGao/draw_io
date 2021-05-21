@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-21T08:29:12.572Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="CmsG6A0ODG7QOsOmDGRu" version="14.6.10" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-05-21T08:30:43.920Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="lEQ-1HI2qP9u5WaTrZMs" version="14.6.10" type="github" pages="3">
   <diagram id="g7usEjnd5ee0Ly5ZbJtn" name="detailed version">
-    <mxGraphModel dx="2455" dy="874" grid="0" gridSize="10" guides="1" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1987" dy="619" grid="0" gridSize="10" guides="1" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -728,6 +728,11 @@
             </mxGeometry>
           </mxCell>
         </UserObject>
+        <mxCell id="mbGC3ksJfDoY1-nT-V7R-103" value="friction preview" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=10;labelBackgroundColor=none;" vertex="1" connectable="0" parent="NW8IP-rn-EwmyOUBby27-34">
+          <mxGeometry x="-0.3792" y="-3" relative="1" as="geometry">
+            <mxPoint x="-38" y="-12" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <UserObject label="" lucidchartObjectId="WF3scWvZ1a10" id="NW8IP-rn-EwmyOUBby27-35">
           <mxCell style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#0c7cba;strokeOpacity=100;strokeWidth=1;rounded=1;arcSize=24;edgeStyle=orthogonalEdgeStyle;startArrow=classicThin;;endArrow=none;endFill=0;;exitX=1.003;exitY=0.59;exitPerimeter=0;entryX=1.003;entryY=0.5;entryPerimeter=0;startFill=1;" parent="1" source="NW8IP-rn-EwmyOUBby27-2" target="NW8IP-rn-EwmyOUBby27-23" edge="1">
             <mxGeometry width="100" height="100" relative="1" as="geometry">
@@ -738,6 +743,21 @@
             </mxGeometry>
           </mxCell>
         </UserObject>
+        <mxCell id="mbGC3ksJfDoY1-nT-V7R-99" value="&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 0px ; background-color: rgb(248 , 249 , 250)&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22preview%20request%22%20style%3D%22edgeLabel%3Bhtml%3D1%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3Bresizable%3D0%3Bpoints%3D%5B%5D%3BfontSize%3D10%3BlabelBackgroundColor%3Dnone%3B%22%20vertex%3D%221%22%20connectable%3D%220%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%221989.96551724138%22%20y%3D%22534.5606843730952%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=10;" vertex="1" connectable="0" parent="NW8IP-rn-EwmyOUBby27-35">
+          <mxGeometry x="0.26" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mbGC3ksJfDoY1-nT-V7R-100" value="&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 0px ; background-color: rgb(248 , 249 , 250)&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22preview%20request%22%20style%3D%22edgeLabel%3Bhtml%3D1%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3Bresizable%3D0%3Bpoints%3D%5B%5D%3BfontSize%3D10%3BlabelBackgroundColor%3Dnone%3B%22%20vertex%3D%221%22%20connectable%3D%220%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%221989.96551724138%22%20y%3D%22534.5606843730952%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=10;" vertex="1" connectable="0" parent="NW8IP-rn-EwmyOUBby27-35">
+          <mxGeometry x="0.2778" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mbGC3ksJfDoY1-nT-V7R-101" value="&lt;span style=&quot;&quot;&gt;preview request&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=10;labelBackgroundColor=none;" vertex="1" connectable="0" parent="NW8IP-rn-EwmyOUBby27-35">
+          <mxGeometry x="0.585" y="5" relative="1" as="geometry">
+            <mxPoint x="136" y="-15" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <UserObject label="&lt;div style=&quot;display: flex; justify-content: flex-start; text-align: left; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:13px;color:#000000;text-decoration: underline;&quot;&gt;Tools available&lt;/span&gt;&lt;span style=&quot;font-size:13px;color:#000000;&quot;&gt;: Allan variance;&#xa;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;display: flex; justify-content: center; text-align: center; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:13px;color:#000000;&quot;&gt;&lt;span style=&quot;font-size:13px;color:#000000;&quot;&gt;Multiple R-trees;&#xa;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;display: flex; justify-content: flex-start; text-align: left; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:13px;color:#000000;&quot;&gt;Clustering&#xa;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;display: flex; justify-content: flex-start; text-align: left; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;/span&gt;&lt;/div&gt;" lucidchartObjectId="i03s2qZDI968" id="NW8IP-rn-EwmyOUBby27-37">
           <mxCell style="html=1;overflow=block;blockSpacing=1;strokeColor=none;fillColor=none;whiteSpace=wrap;fontSize=13;spacing=0;verticalAlign=top;strokeWidth=1.5;" parent="1" vertex="1">
             <mxGeometry x="2537.28" y="730.1" width="120" height="90" as="geometry" />
@@ -1223,6 +1243,9 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1969.0999999999997" y="639.00183" as="sourcePoint" />
             <mxPoint x="1363.0013400000005" y="669.26788" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1982" y="572" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="mbGC3ksJfDoY1-nT-V7R-19" value="friction preview" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=10;labelBackgroundColor=none;" vertex="1" connectable="0" parent="mbGC3ksJfDoY1-nT-V7R-18">

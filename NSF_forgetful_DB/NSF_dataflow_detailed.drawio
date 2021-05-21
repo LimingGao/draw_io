@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-21T08:58:00.339Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="fh6FgKw8ixoAARbd4W7n" version="14.6.10" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-05-21T08:58:55.963Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="WZ8r00O-pluCSN7NZnNk" version="14.6.10" type="github" pages="3">
   <diagram id="g7usEjnd5ee0Ly5ZbJtn" name="detailed version">
-    <mxGraphModel dx="2455" dy="874" grid="0" gridSize="10" guides="1" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2750" dy="1057" grid="0" gridSize="10" guides="1" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1434,16 +1434,13 @@
           <mxGeometry x="119" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="EPciwlCAxLOxW23dukJo-49" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/spring-2-1/30/Rain-128.png;dashed=1;fontSize=28;" parent="mbGC3ksJfDoY1-nT-V7R-108" vertex="1">
-          <mxGeometry y="91.29999999999995" width="67.41" height="67.41" as="geometry" />
+          <mxGeometry x="121.59" y="83.89999999999995" width="67.41" height="67.41" as="geometry" />
         </mxCell>
         <mxCell id="mbGC3ksJfDoY1-nT-V7R-1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/the-weather-is-nice-today/64/weather_7-128.png" vertex="1" parent="mbGC3ksJfDoY1-nT-V7R-108">
-          <mxGeometry x="222" y="81.05000000000001" width="71" height="71" as="geometry" />
+          <mxGeometry x="-3.6899999999999977" y="76.9" width="71" height="71" as="geometry" />
         </mxCell>
         <mxCell id="mbGC3ksJfDoY1-nT-V7R-5" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/the-weather-is-nice-today/64/weather_3-128.png;dashed=1;fontSize=28;" vertex="1" parent="mbGC3ksJfDoY1-nT-V7R-108">
           <mxGeometry y="2.6899999999999977" width="67.31" height="67.31" as="geometry" />
-        </mxCell>
-        <mxCell id="mbGC3ksJfDoY1-nT-V7R-6" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/tiny-weather-1/512/snow-cloud-128.png" vertex="1" parent="mbGC3ksJfDoY1-nT-V7R-108">
-          <mxGeometry x="107" y="72.20999999999998" width="89" height="89" as="geometry" />
         </mxCell>
         <mxCell id="mbGC3ksJfDoY1-nT-V7R-109" value="Road condition" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;labelBackgroundColor=none;fontSize=20;fontColor=#0000FF;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-145" y="280.00000000000006" width="155" height="28" as="geometry" />
@@ -1505,6 +1502,9 @@
         </mxCell>
         <mxCell id="34l7z13zgLDxpLi6N4YC-3" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB2aWV3Qm94PSI0IDI2IDg4IDQ0IiBpZD0iSWNvbnNfQ2FyIiBvdmVyZmxvdz0iaGlkZGVuIiB3aWR0aD0iODgiIGhlaWdodD0iNDQiPjxjaXJjbGUgY3g9IjI0IiBjeT0iNjIiIHI9IjgiLz48Y2lyY2xlIGN4PSI3MiIgY3k9IjYyIiByPSI4Ii8+PHBhdGggZD0iTTM5IDQyIDM5IDMwIDUyLjcgMzBDNTMuOCAzMCA1NC44IDMwLjQgNTUuNSAzMS4yTDY2LjMgNDIgMzkgNDJaTTM1IDQyIDkuNyA0MiAyMC41IDMxLjJDMjEuMyAzMC40IDIyLjMgMzAgMjMuMyAzMEwzNSAzMCAzNSA0MlpNODIgNDIgNzMuNyA0MkM3Mi42IDQyIDcxLjYgNDEuNiA3MC45IDQwLjhMNTguMyAyOC4zQzU2LjggMjYuOCA1NC44IDI2IDUyLjYgMjZMMjMuMyAyNkMyMS4yIDI2IDE5LjEgMjYuOCAxNy42IDI4LjNMNS4yIDQwLjhDNC40IDQxLjYgNCA0Mi42IDQgNDMuN0w0IDU0QzQgNTguNCA3LjYgNjIgMTIgNjJMMTMgNjJDMTMgNTUuOSAxNy45IDUxIDI0IDUxIDMwLjEgNTEgMzUgNTUuOSAzNSA2Mkw2MSA2MkM2MSA1NS45IDY1LjkgNTEgNzIgNTEgNzguMSA1MSA4MyA1NS45IDgzIDYyTDg4IDYyQzkwLjIgNjIgOTIgNjAuMiA5MiA1OEw5MiA1MkM5MiA0Ni41IDg3LjUgNDIgODIgNDJaIi8+PC9zdmc+;labelBackgroundColor=none;fontSize=8;strokeColor=#3333FF;fillColor=none;html=1;" vertex="1" parent="_AR8f_d6GlFVkw_kQrnz-5">
           <mxGeometry width="88.99999999999997" height="36.36043587594355" as="geometry" />
+        </mxCell>
+        <mxCell id="mbGC3ksJfDoY1-nT-V7R-6" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/tiny-weather-1/512/snow-cloud-128.png" vertex="1" parent="1">
+          <mxGeometry x="87" y="390" width="89" height="89" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

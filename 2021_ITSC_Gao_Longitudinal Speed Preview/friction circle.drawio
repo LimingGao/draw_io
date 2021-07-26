@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-26T05:31:59.287Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="z_IKywAiI34PFPzz28rB" version="14.9.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-07-26T05:32:08.671Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="PKz_xKy6RyS624g4C0OW" version="14.9.0" type="github" pages="3">
   <diagram id="g7usEjnd5ee0Ly5ZbJtn" name="friction circle">
     <mxGraphModel dx="1140" dy="634" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -750,7 +750,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="VXKMhtpPrfWjaBHs4lLd" name="bicycle model">
-    <mxGraphModel dx="543" dy="280" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="456" dy="235" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="LGTIWsO_x1LPyo_i8puS-0" />
         <mxCell id="LGTIWsO_x1LPyo_i8puS-1" parent="LGTIWsO_x1LPyo_i8puS-0" />
@@ -1183,7 +1183,7 @@
             <mxPoint x="539.8299999999999" y="789.8" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0fBK62NfARPhi3sExRjy-52" value="U" style="edgeLabel;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Times New Roman;fontStyle=2" vertex="1" connectable="0" parent="0fBK62NfARPhi3sExRjy-51">
+        <mxCell id="0fBK62NfARPhi3sExRjy-52" value="U" style="edgeLabel;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Times New Roman;fontStyle=2;labelBackgroundColor=none;" vertex="1" connectable="0" parent="0fBK62NfARPhi3sExRjy-51">
           <mxGeometry x="0.65" relative="1" as="geometry">
             <mxPoint x="-26.7" y="-25.799999999999997" as="offset" />
           </mxGeometry>

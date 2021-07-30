@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-30T18:50:30.917Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="jqwTYPBFgnmX7OlxrVk3" version="14.9.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-07-30T18:50:46.493Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="jq22ww1MNbMDAl7OxyAR" version="14.9.3" type="github" pages="4">
   <diagram id="g7usEjnd5ee0Ly5ZbJtn" name="friction circle">
     <mxGraphModel dx="1140" dy="634" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1212,7 +1212,7 @@
           <mxGeometry x="-5.1514348342607263e-14" y="2.0023522822738844" width="53" height="37" as="geometry" />
         </mxCell>
         <mxCell id="rcA1wXQUjvKvjiEHoA8G-8" value="" style="shape=image;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/flat-ui-4/100/Antenna-128.png;strokeColor=#FF33FF;strokeWidth=3;fillColor=none;gradientColor=#ffffff;rotation=0;" vertex="1" parent="rcA1wXQUjvKvjiEHoA8G-1">
-          <mxGeometry x="341.99999999999994" y="236" width="29.68" height="29.68" as="geometry" />
+          <mxGeometry x="409.99999999999994" y="214.32" width="29.68" height="29.68" as="geometry" />
         </mxCell>
         <mxCell id="rcA1wXQUjvKvjiEHoA8G-9" value="" style="endArrow=blockThin;dashed=1;fontSize=10;exitX=0.74;exitY=0.097;exitDx=0;exitDy=0;exitPerimeter=0;startArrow=blockThin;startFill=0;endFill=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="rcA1wXQUjvKvjiEHoA8G-1" source="rcA1wXQUjvKvjiEHoA8G-27" target="rcA1wXQUjvKvjiEHoA8G-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">

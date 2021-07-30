@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-30T18:50:46.493Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="jq22ww1MNbMDAl7OxyAR" version="14.9.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-07-30T18:50:54.071Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="ZEY123ItQQ49GT0qfvy4" version="14.9.3" type="github" pages="4">
   <diagram id="g7usEjnd5ee0Ly5ZbJtn" name="friction circle">
     <mxGraphModel dx="1140" dy="634" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1202,7 +1202,7 @@
         <mxCell id="rcA1wXQUjvKvjiEHoA8G-4" value="" style="group;fillColor=#ffffff;" vertex="1" connectable="0" parent="rcA1wXQUjvKvjiEHoA8G-1">
           <mxGeometry x="374" y="240" width="101.70000000000003" height="51.42" as="geometry" />
         </mxCell>
-        <mxCell id="rcA1wXQUjvKvjiEHoA8G-5" value="" style="rounded=1;align=center;verticalAlign=middle;fontSize=9;fontStyle=0;strokeColor=#666666;fontColor=#333333;fillColor=#99FF99;" vertex="1" parent="rcA1wXQUjvKvjiEHoA8G-4">
+        <mxCell id="rcA1wXQUjvKvjiEHoA8G-5" value="" style="rounded=1;align=center;verticalAlign=middle;fontSize=9;fontStyle=0;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" parent="rcA1wXQUjvKvjiEHoA8G-4">
           <mxGeometry x="-2.68" width="101.70000000000003" height="51.41999999999999" as="geometry" />
         </mxCell>
         <mxCell id="rcA1wXQUjvKvjiEHoA8G-6" value="" style="aspect=fixed;perimeter=ellipsePerimeter;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/database_server.svg;strokeColor=#FF33FF;strokeWidth=3;fillColor=none;gradientColor=#ffffff;" vertex="1" parent="rcA1wXQUjvKvjiEHoA8G-4">

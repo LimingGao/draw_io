@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-09T08:37:34.714Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="g6HaJzGuOVHEtq8qldqv" version="15.9.4" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-12-09T08:39:31.825Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="IdbVHEgkkjou7h-zw_CD" version="15.9.4" type="github" pages="5">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1422" dy="705" grid="0" gridSize="7.874" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -2365,15 +2365,6 @@
         <mxCell id="19sYi5BQRbe1iWauSZN_-13" value="" style="shape=image;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/isometric-city-basic-transport/480/car-taxi-front-01-128.png;strokeColor=#FF33FF;strokeWidth=3;fillColor=none;gradientColor=#ffffff;rotation=-30;" vertex="1" parent="19sYi5BQRbe1iWauSZN_-11">
           <mxGeometry x="5.509035396383914" y="6.9744010318359235" width="30.10192920723228" height="30.10192920723228" as="geometry" />
         </mxCell>
-        <mxCell id="19sYi5BQRbe1iWauSZN_-14" value="" style="group;" vertex="1" connectable="0" parent="19sYi5BQRbe1iWauSZN_-1">
-          <mxGeometry x="391" y="610" width="41.12" height="47.86" as="geometry" />
-        </mxCell>
-        <mxCell id="19sYi5BQRbe1iWauSZN_-15" value="" style="shape=image;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/computer-hardware-line-vol-2/52/signal__device__technology__radar__satellite__antenna__tower-128.png;strokeColor=#FF33FF;strokeWidth=3;fillColor=none;gradientColor=#ffffff;" vertex="1" parent="19sYi5BQRbe1iWauSZN_-14">
-          <mxGeometry x="10.71" y="7" width="16.05" height="16.05" as="geometry" />
-        </mxCell>
-        <mxCell id="19sYi5BQRbe1iWauSZN_-16" value="" style="shape=image;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/isometric-city-basic-transport/480/car-taxi-front-01-128.png;strokeColor=#FF33FF;strokeWidth=3;fillColor=none;gradientColor=#ffffff;rotation=-30;" vertex="1" parent="19sYi5BQRbe1iWauSZN_-14">
-          <mxGeometry x="5.509035396383914" y="6.9744010318359235" width="30.10192920723228" height="30.10192920723228" as="geometry" />
-        </mxCell>
         <mxCell id="19sYi5BQRbe1iWauSZN_-17" value="" style="group" vertex="1" connectable="0" parent="19sYi5BQRbe1iWauSZN_-1">
           <mxGeometry x="442.99774896200654" y="642.9977489620067" width="37.610955391666494" height="37.610955391666494" as="geometry" />
         </mxCell>
@@ -2697,6 +2688,30 @@
               </Array>
               <mxPoint x="310" y="626" as="sourcePoint" />
               <mxPoint x="110.88999999999987" y="414.9999999999998" as="targetPoint" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="" lucidchartObjectId="zPXyXNDLrdt5" id="JMaSVqKiZ8myGOm60sOW-91">
+          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#3aa6dd;strokeOpacity=100;strokeWidth=2;rounded=1;arcSize=24;edgeStyle=orthogonalEdgeStyle;startArrow=none;;endArrow=block;endFill=1;;entryX=0.145;entryY=1;entryPerimeter=0;entryDx=0;entryDy=-1.16;" edge="1" parent="19sYi5BQRbe1iWauSZN_-1" target="JMaSVqKiZ8myGOm60sOW-88">
+            <mxGeometry width="100" height="100" relative="1" as="geometry">
+              <Array as="points">
+                <mxPoint x="265" y="636" />
+                <mxPoint x="265" y="565" />
+              </Array>
+              <mxPoint x="320" y="636" as="sourcePoint" />
+              <mxPoint x="264.97" y="557.5" as="targetPoint" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="" lucidchartObjectId="zPXyXNDLrdt5" id="JMaSVqKiZ8myGOm60sOW-92">
+          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#FF0000;strokeOpacity=100;strokeWidth=2;rounded=1;arcSize=24;edgeStyle=orthogonalEdgeStyle;startArrow=none;;endArrow=block;endFill=1;;entryX=0;entryY=0.5;entryPerimeter=0;entryDx=0;entryDy=0;" edge="1" parent="19sYi5BQRbe1iWauSZN_-1">
+            <mxGeometry width="100" height="100" relative="1" as="geometry">
+              <Array as="points">
+                <mxPoint x="180" y="658" />
+                <mxPoint x="180" y="533" />
+              </Array>
+              <mxPoint x="459.97" y="657.8299999999999" as="sourcePoint" />
+              <mxPoint x="254.97000000000003" y="533" as="targetPoint" />
             </mxGeometry>
           </mxCell>
         </UserObject>

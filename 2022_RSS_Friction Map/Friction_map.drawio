@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-09T08:49:55.023Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="AZdENxzYsOlWg8zuroGT" version="15.9.4" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-12-09T08:50:38.570Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="7IcJv-ri5GNwea3MWHIL" version="15.9.4" type="github" pages="5">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1422" dy="705" grid="0" gridSize="7.874" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -2337,7 +2337,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="uh4tKfgx8G5bWjiehS-A" name="Page-5">
-    <mxGraphModel dx="981" dy="1586" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1293" dy="1741" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="19sYi5BQRbe1iWauSZN_-0" />
         <mxCell id="19sYi5BQRbe1iWauSZN_-1" parent="19sYi5BQRbe1iWauSZN_-0" />
@@ -2717,6 +2717,11 @@
         <UserObject label="Aggregation and prediction algorithms" lucidchartObjectId="bUoyRqJhl_O3" id="JMaSVqKiZ8myGOm60sOW-94">
           <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;;whiteSpace=wrap;fontSize=16.8;fontColor=#333333;fontStyle=1;align=center;spacing=9;strokeColor=#333333;strokeOpacity=100;fillOpacity=100;fillColor=#ffffff;strokeWidth=2.3;" vertex="1" parent="19sYi5BQRbe1iWauSZN_-1">
             <mxGeometry x="530" y="370" width="125" height="67" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" lucidchartObjectId="O~0yKJgx1KF." id="JMaSVqKiZ8myGOm60sOW-96">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=image;whiteSpace=wrap;fontSize=13;spacing=0;strokeColor=none;strokeOpacity=100;strokeWidth=0;image=https://images.lucid.app/images/389a2710-a53f-4575-96d5-3845033a8542/content;imageAspect=0;" vertex="1" parent="19sYi5BQRbe1iWauSZN_-1">
+            <mxGeometry x="110" y="577" width="62" height="29" as="geometry" />
           </mxCell>
         </UserObject>
       </root>

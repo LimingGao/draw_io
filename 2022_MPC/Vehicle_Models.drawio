@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-18T19:13:34.475Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="d68Li8EVSyiIPM7Ifs1N" version="16.5.6" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-02-24T14:35:20.781Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="CAT1nzL6WHBVMuHW8vaL" version="16.5.6" type="github" pages="4">
   <diagram id="g7usEjnd5ee0Ly5ZbJtn" name="friction circle">
     <mxGraphModel dx="981" dy="526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -327,7 +327,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="X77Ue-ZlXGN9faTH996L" name="CAV network">
-    <mxGraphModel dx="1422" dy="705" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="762" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="i4RcE1fr88npL_jNl3nU-0" />
         <mxCell id="i4RcE1fr88npL_jNl3nU-1" parent="i4RcE1fr88npL_jNl3nU-0" />
@@ -1003,7 +1003,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="VXKMhtpPrfWjaBHs4lLd" name="bicycle model">
-    <mxGraphModel dx="677" dy="363" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="569" dy="305" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="LGTIWsO_x1LPyo_i8puS-0" />
         <mxCell id="LGTIWsO_x1LPyo_i8puS-1" parent="LGTIWsO_x1LPyo_i8puS-0" />
@@ -1295,17 +1295,6 @@
             <mxPoint x="13" y="-7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0fBK62NfARPhi3sExRjy-58" value="" style="endArrow=classicThin;startArrow=none;startFill=0;strokeColor=#FF0000;endFill=1;" parent="0fBK62NfARPhi3sExRjy-55" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="15.199999999999989" y="50" as="sourcePoint" />
-            <mxPoint x="106" y="50" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="0fBK62NfARPhi3sExRjy-59" value="Fxr" style="edgeLabel;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Times New Roman;fontColor=#FF0000;labelBackgroundColor=none;fontStyle=2" parent="0fBK62NfARPhi3sExRjy-58" vertex="1" connectable="0">
-          <mxGeometry x="0.6307" y="-2" relative="1" as="geometry">
-            <mxPoint x="1.7300000000000004" y="-11.8" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="0fBK62NfARPhi3sExRjy-60" value="" style="endArrow=classicThin;startArrow=none;startFill=0;endFill=1;" parent="0fBK62NfARPhi3sExRjy-55" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="15" y="50" as="sourcePoint" />
@@ -1343,15 +1332,10 @@
             <mxPoint x="13" y="-7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0fBK62NfARPhi3sExRjy-74" value="" style="endArrow=classicThin;startArrow=none;startFill=0;strokeColor=#FF0000;endFill=1;" parent="0fBK62NfARPhi3sExRjy-71" edge="1">
+        <mxCell id="0fBK62NfARPhi3sExRjy-74" value="" style="endArrow=none;startArrow=none;startFill=0;strokeColor=#000000;endFill=0;dashed=1;dashPattern=1 2;" parent="0fBK62NfARPhi3sExRjy-71" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-3" y="71" as="sourcePoint" />
             <mxPoint x="84" y="47" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="0fBK62NfARPhi3sExRjy-75" value="Fxf" style="edgeLabel;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Times New Roman;fontColor=#FF0000;labelBackgroundColor=none;rotation=-15;fontStyle=2" parent="0fBK62NfARPhi3sExRjy-74" vertex="1" connectable="0">
-          <mxGeometry x="0.6307" y="-2" relative="1" as="geometry">
-            <mxPoint x="3.7300000000000004" y="-15.8" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0fBK62NfARPhi3sExRjy-76" value="" style="endArrow=classicThin;startArrow=none;startFill=0;endFill=1;" parent="0fBK62NfARPhi3sExRjy-71" edge="1">

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-28T05:08:32.168Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="WjDH5v9hVT2FdqxphYSz" version="16.6.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-02-28T05:08:37.656Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="tLMgnoq7KfqLeamKuZfn" version="16.6.3" type="github" pages="4">
   <diagram id="g7usEjnd5ee0Ly5ZbJtn" name="friction circle">
     <mxGraphModel dx="1550" dy="835" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1646,7 +1646,7 @@
         </mxCell>
         <mxCell id="fwVC2J-K2TIiizky-qtY-10" value="b" style="edgeLabel;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;fontFamily=Times New Roman;fontColor=#3333FF;fontStyle=2;labelBackgroundColor=none;" vertex="1" connectable="0" parent="fwVC2J-K2TIiizky-qtY-9">
           <mxGeometry x="0.3697" relative="1" as="geometry">
-            <mxPoint x="-27" y="-8" as="offset" />
+            <mxPoint x="-27" y="-7" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fwVC2J-K2TIiizky-qtY-11" value="" style="endArrow=none;dashed=1;strokeWidth=1;fontFamily=Times New Roman;fontSize=7;fontColor=#000000;" edge="1" parent="LGTIWsO_x1LPyo_i8puS-1">

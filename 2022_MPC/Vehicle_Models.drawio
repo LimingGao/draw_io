@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-28T05:53:43.746Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="5hVHIK-ZBcCmyDvn6Swt" version="16.6.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-02-28T05:54:01.831Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="7Dsr_XWVn9RZhtCt3jHM" version="16.6.3" type="github" pages="4">
   <diagram id="g7usEjnd5ee0Ly5ZbJtn" name="friction circle">
     <mxGraphModel dx="1550" dy="835" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1305,7 +1305,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="0fBK62NfARPhi3sExRjy-63" value="αr" style="edgeLabel;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Times New Roman;fontSize=9;labelBackgroundColor=none;fontStyle=2" parent="0fBK62NfARPhi3sExRjy-55" vertex="1" connectable="0">
-          <mxGeometry x="72.00320388349525" y="40.000000000000114" as="geometry" />
+          <mxGeometry x="74.00320388349525" y="38.000000000000114" as="geometry" />
         </mxCell>
         <mxCell id="0fBK62NfARPhi3sExRjy-71" value="" style="group;rotation=-15;" parent="LGTIWsO_x1LPyo_i8puS-1" vertex="1" connectable="0">
           <mxGeometry x="516.46" y="358" width="91" height="60" as="geometry" />
@@ -1348,7 +1348,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="0fBK62NfARPhi3sExRjy-79" value="αf" style="edgeLabel;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Times New Roman;fontSize=9;labelBackgroundColor=none;rotation=-15;fontStyle=2" parent="0fBK62NfARPhi3sExRjy-71" vertex="1" connectable="0">
-          <mxGeometry x="51" y="49" as="geometry">
+          <mxGeometry x="53" y="48" as="geometry">
             <mxPoint x="-0.8965754721680539" y="-4.381341395361314" as="offset" />
           </mxGeometry>
         </mxCell>

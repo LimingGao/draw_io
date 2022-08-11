@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-11T20:19:32.988Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="ujbcKDYCeleuinAWZYKG" version="20.2.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-08-11T20:19:41.274Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="Lj8hQUCPFeSkuAgeQG2k" version="20.2.3" type="github" pages="4">
   <diagram id="g7usEjnd5ee0Ly5ZbJtn" name="friction circle">
     <mxGraphModel dx="779" dy="394" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -81,9 +81,6 @@
             <mxPoint x="440" y="750" as="sourcePoint" />
             <mxPoint x="440" y="510" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="sfxk6lXDzjt9jar1TBOU-3" value="" style="ellipse;fillColor=none;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="373" y="563" width="134" height="134" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
